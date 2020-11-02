@@ -1,0 +1,42 @@
+PoliceStation_ID,PoliceStation,Division,Region
+1,Serangoon NPC,Ang Mo Kio Police Division,North East
+2,Punggol NPC,Ang Mo Kio Police Division,North East
+3,Hougang NPC,Ang Mo Kio Police Division,North East
+4,Ang Mo Kio South NPC,Ang Mo Kio Police Division,North East
+5,Sengkang NPC,Ang Mo Kio Police Division,North East
+6,Yishun South NPC,Ang Mo Kio Police Division,North East
+7,Sembawang NPC,Ang Mo Kio Police Division,North East
+8,Bedok South NPC,Bedok Police Division,East
+9,Yishun North NPC,Ang Mo Kio Police Division,North East
+10,Bukit Merah East NPC,Central Police Division,Central
+11,Bedok North NPC,Bedok Police Division,East
+12,Ang Mo Kio North NPC,Ang Mo Kio Police Division,North East
+13,Queenstown NPC,Clementi Police Division,West
+14,Bukit Merah West NPC,Clementi Police Division,West
+15,Jurong East NPC,Clementi Police Division,West
+16,Changi NPC,Bedok Police Division,East
+17,Geylang NPC,Bedok Police Division,East
+18,Woodlands West NPC,Jurong Police Division,West
+19,Bukit Batok NPC,Jurong Police Division,West
+20,Woodlands East NPC,Jurong Police Division,West
+21,Orchard NPC,Tanglin Police Division,Central
+22,Toa Payoh NPC,Tanglin Police Division,Central
+23,Kampong Java NPC,Tanglin Police Division,Central
+24,Bukit Timah NPC,Tanglin Police Division,Central
+25,Marina Bay NPC,Central Police Division,Central
+26,Rochor NPC,Central Police Division,Central
+27,Clementi NPC,Clementi Police Division,West
+28,Bishan NPC,Tanglin Police Division,Central
+29,Bukit Panjang NPC,Jurong Police Division,West
+30,Choa Chu Kang NPC,Jurong Police Division,West
+31,Jurong West NPC,Jurong Police Division,West
+32,Nanyang NPC,Jurong Police Division,West
+33,Woodlands NPC,Jurong Police Division,West
+34,Tampines NPC,Bedok Police Division,East
+35,Marine Parade NPC,Bedok Police Division,East
+36,Pasir Ris NPC,Bedok Police Division,East
+37,Sembawang NPC,Woodlands Police Division,North
+38,Yishun North NPC,Woodlands Police Division,North
+39,Yishun South NPC,Woodlands Police Division,North
+40,Woodlands West NPC,Woodlands Police Division,North
+41,Woodlands East NPC,Woodlands Police Division,North

@@ -1,0 +1,811 @@
+year,level_1,level_2,value
+2011,Total Persons Arrested For Murder,Above 21 Years Old,18
+2011,Total Persons Arrested For Murder,21 Years Old And Below,12
+2011,Total Persons Arrested For Murder,Youths (7 To 19 Years Old),9
+2011,Male Arrested For Murder,Above 21 Years Old,17
+2011,Male Arrested For Murder,21 Years Old And Below,11
+2011,Male Arrested For Murder,Youths (7 To 19 Years Old),8
+2011,Female Arrested For Murder,Above 21 Years Old,1
+2011,Female Arrested For Murder,21 Years Old And Below,1
+2011,Female Arrested For Murder,Youths (7 To 19 Years Old),1
+2011,Total Persons Arrested For Rape,Above 21 Years Old,30
+2011,Total Persons Arrested For Rape,21 Years Old And Below,14
+2011,Total Persons Arrested For Rape,Youths (7 To 19 Years Old),13
+2011,Male Arrested For Rape,Above 21 Years Old,30
+2011,Male Arrested For Rape,21 Years Old And Below,14
+2011,Male Arrested For Rape,Youths (7 To 19 Years Old),13
+2011,Female Arrested For Rape,Above 21 Years Old,0
+2011,Female Arrested For Rape,21 Years Old And Below,0
+2011,Female Arrested For Rape,Youths (7 To 19 Years Old),0
+2011,Total Persons Arrested For Outrage Of Modesty,Above 21 Years Old,685
+2011,Total Persons Arrested For Outrage Of Modesty,21 Years Old And Below,118
+2011,Total Persons Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),81
+2011,Male Arrested For Outrage Of Modesty,Above 21 Years Old,681
+2011,Male Arrested For Outrage Of Modesty,21 Years Old And Below,115
+2011,Male Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),79
+2011,Female Arrested For Outrage Of Modesty,Above 21 Years Old,4
+2011,Female Arrested For Outrage Of Modesty,21 Years Old And Below,3
+2011,Female Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),2
+2011,Total Persons Arrested For Robbery,Above 21 Years Old,177
+2011,Total Persons Arrested For Robbery,21 Years Old And Below,127
+2011,Total Persons Arrested For Robbery,Youths (7 To 19 Years Old),113
+2011,Male Arrested For Robbery,Above 21 Years Old,167
+2011,Male Arrested For Robbery,21 Years Old And Below,116
+2011,Male Arrested For Robbery,Youths (7 To 19 Years Old),102
+2011,Female Arrested For Robbery,Above 21 Years Old,10
+2011,Female Arrested For Robbery,21 Years Old And Below,11
+2011,Female Arrested For Robbery,Youths (7 To 19 Years Old),11
+2011,Total Persons Arrested For Housebreaking,Above 21 Years Old,173
+2011,Total Persons Arrested For Housebreaking,21 Years Old And Below,99
+2011,Total Persons Arrested For Housebreaking,Youths (7 To 19 Years Old),91
+2011,Male Arrested For Housebreaking,Above 21 Years Old,161
+2011,Male Arrested For Housebreaking,21 Years Old And Below,90
+2011,Male Arrested For Housebreaking,Youths (7 To 19 Years Old),82
+2011,Female Arrested For Housebreaking,Above 21 Years Old,12
+2011,Female Arrested For Housebreaking,21 Years Old And Below,9
+2011,Female Arrested For Housebreaking,Youths (7 To 19 Years Old),9
+2011,Total Persons Arrested For Theft Of Motor Vehicle,Above 21 Years Old,56
+2011,Total Persons Arrested For Theft Of Motor Vehicle,21 Years Old And Below,140
+2011,Total Persons Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),116
+2011,Male Arrested For Theft Of Motor Vehicle,Above 21 Years Old,55
+2011,Male Arrested For Theft Of Motor Vehicle,21 Years Old And Below,128
+2011,Male Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),106
+2011,Female Arrested For Theft Of Motor Vehicle,Above 21 Years Old,1
+2011,Female Arrested For Theft Of Motor Vehicle,21 Years Old And Below,12
+2011,Female Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),10
+2011,Total Persons Arrested For Snatch Theft,Above 21 Years Old,47
+2011,Total Persons Arrested For Snatch Theft,21 Years Old And Below,42
+2011,Total Persons Arrested For Snatch Theft,Youths (7 To 19 Years Old),36
+2011,Male Arrested For Snatch Theft,Above 21 Years Old,44
+2011,Male Arrested For Snatch Theft,21 Years Old And Below,42
+2011,Male Arrested For Snatch Theft,Youths (7 To 19 Years Old),36
+2011,Female Arrested For Snatch Theft,Above 21 Years Old,3
+2011,Female Arrested For Snatch Theft,21 Years Old And Below,0
+2011,Female Arrested For Snatch Theft,Youths (7 To 19 Years Old),0
+2011,Total Persons Arrested For Rioting,Above 21 Years Old,240
+2011,Total Persons Arrested For Rioting,21 Years Old And Below,462
+2011,Total Persons Arrested For Rioting,Youths (7 To 19 Years Old),398
+2011,Male Arrested For Rioting,Above 21 Years Old,234
+2011,Male Arrested For Rioting,21 Years Old And Below,397
+2011,Male Arrested For Rioting,Youths (7 To 19 Years Old),336
+2011,Female Arrested For Rioting,Above 21 Years Old,6
+2011,Female Arrested For Rioting,21 Years Old And Below,65
+2011,Female Arrested For Rioting,Youths (7 To 19 Years Old),62
+2011,Total Persons Arrested For Serious Hurt,Above 21 Years Old,240
+2011,Total Persons Arrested For Serious Hurt,21 Years Old And Below,62
+2011,Total Persons Arrested For Serious Hurt,Youths (7 To 19 Years Old),43
+2011,Male Arrested For Serious Hurt,Above 21 Years Old,209
+2011,Male Arrested For Serious Hurt,21 Years Old And Below,51
+2011,Male Arrested For Serious Hurt,Youths (7 To 19 Years Old),36
+2011,Female Arrested For Serious Hurt,Above 21 Years Old,31
+2011,Female Arrested For Serious Hurt,21 Years Old And Below,11
+2011,Female Arrested For Serious Hurt,Youths (7 To 19 Years Old),7
+2011,Total Persons Arrested For Cheating & Related,Above 21 Years Old,1376
+2011,Total Persons Arrested For Cheating & Related,21 Years Old And Below,271
+2011,Total Persons Arrested For Cheating & Related,Youths (7 To 19 Years Old),173
+2011,Male Arrested For Cheating & Related,Above 21 Years Old,1003
+2011,Male Arrested For Cheating & Related,21 Years Old And Below,168
+2011,Male Arrested For Cheating & Related,Youths (7 To 19 Years Old),110
+2011,Female Arrested For Cheating & Related,Above 21 Years Old,373
+2011,Female Arrested For Cheating & Related,21 Years Old And Below,103
+2011,Female Arrested For Cheating & Related,Youths (7 To 19 Years Old),63
+2012,Total Persons Arrested For Murder,Above 21 Years Old,15
+2012,Total Persons Arrested For Murder,21 Years Old And Below,1
+2012,Total Persons Arrested For Murder,Youths (7 To 19 Years Old),0
+2012,Male Arrested For Murder,Above 21 Years Old,15
+2012,Male Arrested For Murder,21 Years Old And Below,1
+2012,Male Arrested For Murder,Youths (7 To 19 Years Old),0
+2012,Female Arrested For Murder,Above 21 Years Old,0
+2012,Female Arrested For Murder,21 Years Old And Below,0
+2012,Female Arrested For Murder,Youths (7 To 19 Years Old),0
+2012,Total Persons Arrested For Rape,Above 21 Years Old,42
+2012,Total Persons Arrested For Rape,21 Years Old And Below,37
+2012,Total Persons Arrested For Rape,Youths (7 To 19 Years Old),33
+2012,Male Arrested For Rape,Above 21 Years Old,42
+2012,Male Arrested For Rape,21 Years Old And Below,37
+2012,Male Arrested For Rape,Youths (7 To 19 Years Old),33
+2012,Female Arrested For Rape,Above 21 Years Old,0
+2012,Female Arrested For Rape,21 Years Old And Below,0
+2012,Female Arrested For Rape,Youths (7 To 19 Years Old),0
+2012,Total Persons Arrested For Outrage Of Modesty,Above 21 Years Old,705
+2012,Total Persons Arrested For Outrage Of Modesty,21 Years Old And Below,111
+2012,Total Persons Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),68
+2012,Male Arrested For Outrage Of Modesty,Above 21 Years Old,702
+2012,Male Arrested For Outrage Of Modesty,21 Years Old And Below,108
+2012,Male Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),65
+2012,Female Arrested For Outrage Of Modesty,Above 21 Years Old,3
+2012,Female Arrested For Outrage Of Modesty,21 Years Old And Below,3
+2012,Female Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),3
+2012,Total Persons Arrested For Robbery,Above 21 Years Old,151
+2012,Total Persons Arrested For Robbery,21 Years Old And Below,125
+2012,Total Persons Arrested For Robbery,Youths (7 To 19 Years Old),106
+2012,Male Arrested For Robbery,Above 21 Years Old,142
+2012,Male Arrested For Robbery,21 Years Old And Below,115
+2012,Male Arrested For Robbery,Youths (7 To 19 Years Old),98
+2012,Female Arrested For Robbery,Above 21 Years Old,9
+2012,Female Arrested For Robbery,21 Years Old And Below,10
+2012,Female Arrested For Robbery,Youths (7 To 19 Years Old),8
+2012,Total Persons Arrested For Housebreaking,Above 21 Years Old,149
+2012,Total Persons Arrested For Housebreaking,21 Years Old And Below,88
+2012,Total Persons Arrested For Housebreaking,Youths (7 To 19 Years Old),70
+2012,Male Arrested For Housebreaking,Above 21 Years Old,140
+2012,Male Arrested For Housebreaking,21 Years Old And Below,78
+2012,Male Arrested For Housebreaking,Youths (7 To 19 Years Old),61
+2012,Female Arrested For Housebreaking,Above 21 Years Old,9
+2012,Female Arrested For Housebreaking,21 Years Old And Below,10
+2012,Female Arrested For Housebreaking,Youths (7 To 19 Years Old),9
+2012,Total Persons Arrested For Theft Of Motor Vehicle,Above 21 Years Old,62
+2012,Total Persons Arrested For Theft Of Motor Vehicle,21 Years Old And Below,78
+2012,Total Persons Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),65
+2012,Male Arrested For Theft Of Motor Vehicle,Above 21 Years Old,59
+2012,Male Arrested For Theft Of Motor Vehicle,21 Years Old And Below,74
+2012,Male Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),62
+2012,Female Arrested For Theft Of Motor Vehicle,Above 21 Years Old,3
+2012,Female Arrested For Theft Of Motor Vehicle,21 Years Old And Below,4
+2012,Female Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),3
+2012,Total Persons Arrested For Snatch Theft,Above 21 Years Old,57
+2012,Total Persons Arrested For Snatch Theft,21 Years Old And Below,25
+2012,Total Persons Arrested For Snatch Theft,Youths (7 To 19 Years Old),15
+2012,Male Arrested For Snatch Theft,Above 21 Years Old,54
+2012,Male Arrested For Snatch Theft,21 Years Old And Below,24
+2012,Male Arrested For Snatch Theft,Youths (7 To 19 Years Old),14
+2012,Female Arrested For Snatch Theft,Above 21 Years Old,3
+2012,Female Arrested For Snatch Theft,21 Years Old And Below,1
+2012,Female Arrested For Snatch Theft,Youths (7 To 19 Years Old),1
+2012,Total Persons Arrested For Rioting,Above 21 Years Old,298
+2012,Total Persons Arrested For Rioting,21 Years Old And Below,296
+2012,Total Persons Arrested For Rioting,Youths (7 To 19 Years Old),239
+2012,Male Arrested For Rioting,Above 21 Years Old,277
+2012,Male Arrested For Rioting,21 Years Old And Below,277
+2012,Male Arrested For Rioting,Youths (7 To 19 Years Old),223
+2012,Female Arrested For Rioting,Above 21 Years Old,21
+2012,Female Arrested For Rioting,21 Years Old And Below,19
+2012,Female Arrested For Rioting,Youths (7 To 19 Years Old),16
+2012,Total Persons Arrested For Serious Hurt,Above 21 Years Old,310
+2012,Total Persons Arrested For Serious Hurt,21 Years Old And Below,54
+2012,Total Persons Arrested For Serious Hurt,Youths (7 To 19 Years Old),38
+2012,Male Arrested For Serious Hurt,Above 21 Years Old,275
+2012,Male Arrested For Serious Hurt,21 Years Old And Below,50
+2012,Male Arrested For Serious Hurt,Youths (7 To 19 Years Old),36
+2012,Female Arrested For Serious Hurt,Above 21 Years Old,35
+2012,Female Arrested For Serious Hurt,21 Years Old And Below,4
+2012,Female Arrested For Serious Hurt,Youths (7 To 19 Years Old),2
+2012,Total Persons Arrested For Cheating & Related,Above 21 Years Old,1376
+2012,Total Persons Arrested For Cheating & Related,21 Years Old And Below,227
+2012,Total Persons Arrested For Cheating & Related,Youths (7 To 19 Years Old),143
+2012,Male Arrested For Cheating & Related,Above 21 Years Old,1016
+2012,Male Arrested For Cheating & Related,21 Years Old And Below,135
+2012,Male Arrested For Cheating & Related,Youths (7 To 19 Years Old),90
+2012,Female Arrested For Cheating & Related,Above 21 Years Old,360
+2012,Female Arrested For Cheating & Related,21 Years Old And Below,92
+2012,Female Arrested For Cheating & Related,Youths (7 To 19 Years Old),53
+2013,Total Persons Arrested For Murder,Above 21 Years Old,27
+2013,Total Persons Arrested For Murder,21 Years Old And Below,2
+2013,Total Persons Arrested For Murder,Youths (7 To 19 Years Old),1
+2013,Male Arrested For Murder,Above 21 Years Old,23
+2013,Male Arrested For Murder,21 Years Old And Below,2
+2013,Male Arrested For Murder,Youths (7 To 19 Years Old),1
+2013,Female Arrested For Murder,Above 21 Years Old,4
+2013,Female Arrested For Murder,21 Years Old And Below,0
+2013,Female Arrested For Murder,Youths (7 To 19 Years Old),0
+2013,Total Persons Arrested For Rape,Above 21 Years Old,43
+2013,Total Persons Arrested For Rape,21 Years Old And Below,32
+2013,Total Persons Arrested For Rape,Youths (7 To 19 Years Old),27
+2013,Male Arrested For Rape,Above 21 Years Old,43
+2013,Male Arrested For Rape,21 Years Old And Below,32
+2013,Male Arrested For Rape,Youths (7 To 19 Years Old),27
+2013,Female Arrested For Rape,Above 21 Years Old,0
+2013,Female Arrested For Rape,21 Years Old And Below,0
+2013,Female Arrested For Rape,Youths (7 To 19 Years Old),0
+2013,Total Persons Arrested For Outrage Of Modesty,Above 21 Years Old,663
+2013,Total Persons Arrested For Outrage Of Modesty,21 Years Old And Below,118
+2013,Total Persons Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),80
+2013,Male Arrested For Outrage Of Modesty,Above 21 Years Old,663
+2013,Male Arrested For Outrage Of Modesty,21 Years Old And Below,115
+2013,Male Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),77
+2013,Female Arrested For Outrage Of Modesty,Above 21 Years Old,0
+2013,Female Arrested For Outrage Of Modesty,21 Years Old And Below,3
+2013,Female Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),3
+2013,Total Persons Arrested For Robbery,Above 21 Years Old,153
+2013,Total Persons Arrested For Robbery,21 Years Old And Below,94
+2013,Total Persons Arrested For Robbery,Youths (7 To 19 Years Old),75
+2013,Male Arrested For Robbery,Above 21 Years Old,146
+2013,Male Arrested For Robbery,21 Years Old And Below,91
+2013,Male Arrested For Robbery,Youths (7 To 19 Years Old),73
+2013,Female Arrested For Robbery,Above 21 Years Old,7
+2013,Female Arrested For Robbery,21 Years Old And Below,3
+2013,Female Arrested For Robbery,Youths (7 To 19 Years Old),2
+2013,Total Persons Arrested For Housebreaking,Above 21 Years Old,152
+2013,Total Persons Arrested For Housebreaking,21 Years Old And Below,93
+2013,Total Persons Arrested For Housebreaking,Youths (7 To 19 Years Old),81
+2013,Male Arrested For Housebreaking,Above 21 Years Old,144
+2013,Male Arrested For Housebreaking,21 Years Old And Below,85
+2013,Male Arrested For Housebreaking,Youths (7 To 19 Years Old),75
+2013,Female Arrested For Housebreaking,Above 21 Years Old,8
+2013,Female Arrested For Housebreaking,21 Years Old And Below,8
+2013,Female Arrested For Housebreaking,Youths (7 To 19 Years Old),6
+2013,Total Persons Arrested For Theft Of Motor Vehicle,Above 21 Years Old,41
+2013,Total Persons Arrested For Theft Of Motor Vehicle,21 Years Old And Below,66
+2013,Total Persons Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),57
+2013,Male Arrested For Theft Of Motor Vehicle,Above 21 Years Old,41
+2013,Male Arrested For Theft Of Motor Vehicle,21 Years Old And Below,62
+2013,Male Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),54
+2013,Female Arrested For Theft Of Motor Vehicle,Above 21 Years Old,0
+2013,Female Arrested For Theft Of Motor Vehicle,21 Years Old And Below,4
+2013,Female Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),3
+2013,Total Persons Arrested For Snatch Theft,Above 21 Years Old,53
+2013,Total Persons Arrested For Snatch Theft,21 Years Old And Below,32
+2013,Total Persons Arrested For Snatch Theft,Youths (7 To 19 Years Old),30
+2013,Male Arrested For Snatch Theft,Above 21 Years Old,52
+2013,Male Arrested For Snatch Theft,21 Years Old And Below,29
+2013,Male Arrested For Snatch Theft,Youths (7 To 19 Years Old),27
+2013,Female Arrested For Snatch Theft,Above 21 Years Old,1
+2013,Female Arrested For Snatch Theft,21 Years Old And Below,3
+2013,Female Arrested For Snatch Theft,Youths (7 To 19 Years Old),3
+2013,Total Persons Arrested For Rioting,Above 21 Years Old,300
+2013,Total Persons Arrested For Rioting,21 Years Old And Below,349
+2013,Total Persons Arrested For Rioting,Youths (7 To 19 Years Old),283
+2013,Male Arrested For Rioting,Above 21 Years Old,295
+2013,Male Arrested For Rioting,21 Years Old And Below,312
+2013,Male Arrested For Rioting,Youths (7 To 19 Years Old),250
+2013,Female Arrested For Rioting,Above 21 Years Old,5
+2013,Female Arrested For Rioting,21 Years Old And Below,37
+2013,Female Arrested For Rioting,Youths (7 To 19 Years Old),33
+2013,Total Persons Arrested For Serious Hurt,Above 21 Years Old,350
+2013,Total Persons Arrested For Serious Hurt,21 Years Old And Below,56
+2013,Total Persons Arrested For Serious Hurt,Youths (7 To 19 Years Old),32
+2013,Male Arrested For Serious Hurt,Above 21 Years Old,316
+2013,Male Arrested For Serious Hurt,21 Years Old And Below,54
+2013,Male Arrested For Serious Hurt,Youths (7 To 19 Years Old),30
+2013,Female Arrested For Serious Hurt,Above 21 Years Old,34
+2013,Female Arrested For Serious Hurt,21 Years Old And Below,2
+2013,Female Arrested For Serious Hurt,Youths (7 To 19 Years Old),2
+2013,Total Persons Arrested For Cheating & Related,Above 21 Years Old,1359
+2013,Total Persons Arrested For Cheating & Related,21 Years Old And Below,197
+2013,Total Persons Arrested For Cheating & Related,Youths (7 To 19 Years Old),134
+2013,Male Arrested For Cheating & Related,Above 21 Years Old,993
+2013,Male Arrested For Cheating & Related,21 Years Old And Below,120
+2013,Male Arrested For Cheating & Related,Youths (7 To 19 Years Old),85
+2013,Female Arrested For Cheating & Related,Above 21 Years Old,366
+2013,Female Arrested For Cheating & Related,21 Years Old And Below,77
+2013,Female Arrested For Cheating & Related,Youths (7 To 19 Years Old),49
+2014,Total Persons Arrested For Murder,Above 21 Years Old,23
+2014,Total Persons Arrested For Murder,21 Years Old And Below,1
+2014,Total Persons Arrested For Murder,Youths (7 To 19 Years Old),0
+2014,Male Arrested For Murder,Above 21 Years Old,18
+2014,Male Arrested For Murder,21 Years Old And Below,1
+2014,Male Arrested For Murder,Youths (7 To 19 Years Old),0
+2014,Female Arrested For Murder,Above 21 Years Old,5
+2014,Female Arrested For Murder,21 Years Old And Below,0
+2014,Female Arrested For Murder,Youths (7 To 19 Years Old),0
+2014,Total Persons Arrested For Rape,Above 21 Years Old,59
+2014,Total Persons Arrested For Rape,21 Years Old And Below,45
+2014,Total Persons Arrested For Rape,Youths (7 To 19 Years Old),32
+2014,Male Arrested For Rape,Above 21 Years Old,59
+2014,Male Arrested For Rape,21 Years Old And Below,45
+2014,Male Arrested For Rape,Youths (7 To 19 Years Old),32
+2014,Female Arrested For Rape,Above 21 Years Old,0
+2014,Female Arrested For Rape,21 Years Old And Below,0
+2014,Female Arrested For Rape,Youths (7 To 19 Years Old),0
+2014,Total Persons Arrested For Outrage Of Modesty,Above 21 Years Old,704
+2014,Total Persons Arrested For Outrage Of Modesty,21 Years Old And Below,139
+2014,Total Persons Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),107
+2014,Male Arrested For Outrage Of Modesty,Above 21 Years Old,699
+2014,Male Arrested For Outrage Of Modesty,21 Years Old And Below,138
+2014,Male Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),106
+2014,Female Arrested For Outrage Of Modesty,Above 21 Years Old,5
+2014,Female Arrested For Outrage Of Modesty,21 Years Old And Below,1
+2014,Female Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),1
+2014,Total Persons Arrested For Robbery,Above 21 Years Old,132
+2014,Total Persons Arrested For Robbery,21 Years Old And Below,78
+2014,Total Persons Arrested For Robbery,Youths (7 To 19 Years Old),62
+2014,Male Arrested For Robbery,Above 21 Years Old,127
+2014,Male Arrested For Robbery,21 Years Old And Below,74
+2014,Male Arrested For Robbery,Youths (7 To 19 Years Old),60
+2014,Female Arrested For Robbery,Above 21 Years Old,5
+2014,Female Arrested For Robbery,21 Years Old And Below,4
+2014,Female Arrested For Robbery,Youths (7 To 19 Years Old),2
+2014,Total Persons Arrested For Housebreaking,Above 21 Years Old,122
+2014,Total Persons Arrested For Housebreaking,21 Years Old And Below,60
+2014,Total Persons Arrested For Housebreaking,Youths (7 To 19 Years Old),50
+2014,Male Arrested For Housebreaking,Above 21 Years Old,117
+2014,Male Arrested For Housebreaking,21 Years Old And Below,55
+2014,Male Arrested For Housebreaking,Youths (7 To 19 Years Old),46
+2014,Female Arrested For Housebreaking,Above 21 Years Old,5
+2014,Female Arrested For Housebreaking,21 Years Old And Below,5
+2014,Female Arrested For Housebreaking,Youths (7 To 19 Years Old),4
+2014,Total Persons Arrested For Theft Of Motor Vehicle,Above 21 Years Old,53
+2014,Total Persons Arrested For Theft Of Motor Vehicle,21 Years Old And Below,68
+2014,Total Persons Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),55
+2014,Male Arrested For Theft Of Motor Vehicle,Above 21 Years Old,48
+2014,Male Arrested For Theft Of Motor Vehicle,21 Years Old And Below,66
+2014,Male Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),53
+2014,Female Arrested For Theft Of Motor Vehicle,Above 21 Years Old,5
+2014,Female Arrested For Theft Of Motor Vehicle,21 Years Old And Below,2
+2014,Female Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),2
+2014,Total Persons Arrested For Snatch Theft,Above 21 Years Old,39
+2014,Total Persons Arrested For Snatch Theft,21 Years Old And Below,29
+2014,Total Persons Arrested For Snatch Theft,Youths (7 To 19 Years Old),24
+2014,Male Arrested For Snatch Theft,Above 21 Years Old,38
+2014,Male Arrested For Snatch Theft,21 Years Old And Below,26
+2014,Male Arrested For Snatch Theft,Youths (7 To 19 Years Old),21
+2014,Female Arrested For Snatch Theft,Above 21 Years Old,1
+2014,Female Arrested For Snatch Theft,21 Years Old And Below,3
+2014,Female Arrested For Snatch Theft,Youths (7 To 19 Years Old),3
+2014,Total Persons Arrested For Rioting,Above 21 Years Old,321
+2014,Total Persons Arrested For Rioting,21 Years Old And Below,376
+2014,Total Persons Arrested For Rioting,Youths (7 To 19 Years Old),322
+2014,Male Arrested For Rioting,Above 21 Years Old,308
+2014,Male Arrested For Rioting,21 Years Old And Below,337
+2014,Male Arrested For Rioting,Youths (7 To 19 Years Old),286
+2014,Female Arrested For Rioting,Above 21 Years Old,13
+2014,Female Arrested For Rioting,21 Years Old And Below,39
+2014,Female Arrested For Rioting,Youths (7 To 19 Years Old),36
+2014,Total Persons Arrested For Serious Hurt,Above 21 Years Old,422
+2014,Total Persons Arrested For Serious Hurt,21 Years Old And Below,57
+2014,Total Persons Arrested For Serious Hurt,Youths (7 To 19 Years Old),35
+2014,Male Arrested For Serious Hurt,Above 21 Years Old,390
+2014,Male Arrested For Serious Hurt,21 Years Old And Below,56
+2014,Male Arrested For Serious Hurt,Youths (7 To 19 Years Old),34
+2014,Female Arrested For Serious Hurt,Above 21 Years Old,32
+2014,Female Arrested For Serious Hurt,21 Years Old And Below,1
+2014,Female Arrested For Serious Hurt,Youths (7 To 19 Years Old),1
+2014,Total Persons Arrested For Cheating & Related,Above 21 Years Old,1493
+2014,Total Persons Arrested For Cheating & Related,21 Years Old And Below,208
+2014,Total Persons Arrested For Cheating & Related,Youths (7 To 19 Years Old),128
+2014,Male Arrested For Cheating & Related,Above 21 Years Old,1099
+2014,Male Arrested For Cheating & Related,21 Years Old And Below,122
+2014,Male Arrested For Cheating & Related,Youths (7 To 19 Years Old),81
+2014,Female Arrested For Cheating & Related,Above 21 Years Old,394
+2014,Female Arrested For Cheating & Related,21 Years Old And Below,86
+2014,Female Arrested For Cheating & Related,Youths (7 To 19 Years Old),47
+2015,Total Persons Arrested For Murder,Above 21 Years Old,16
+2015,Total Persons Arrested For Murder,21 Years Old And Below,2
+2015,Total Persons Arrested For Murder,Youths (7 To 19 Years Old),0
+2015,Male Arrested For Murder,Above 21 Years Old,12
+2015,Male Arrested For Murder,21 Years Old And Below,2
+2015,Male Arrested For Murder,Youths (7 To 19 Years Old),0
+2015,Female Arrested For Murder,Above 21 Years Old,4
+2015,Female Arrested For Murder,21 Years Old And Below,0
+2015,Female Arrested For Murder,Youths (7 To 19 Years Old),0
+2015,Total Persons Arrested For Rape,Above 21 Years Old,47
+2015,Total Persons Arrested For Rape,21 Years Old And Below,28
+2015,Total Persons Arrested For Rape,Youths (7 To 19 Years Old),23
+2015,Male Arrested For Rape,Above 21 Years Old,47
+2015,Male Arrested For Rape,21 Years Old And Below,28
+2015,Male Arrested For Rape,Youths (7 To 19 Years Old),23
+2015,Female Arrested For Rape,Above 21 Years Old,0
+2015,Female Arrested For Rape,21 Years Old And Below,0
+2015,Female Arrested For Rape,Youths (7 To 19 Years Old),0
+2015,Total Persons Arrested For Outrage Of Modesty,Above 21 Years Old,727
+2015,Total Persons Arrested For Outrage Of Modesty,21 Years Old And Below,134
+2015,Total Persons Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),114
+2015,Male Arrested For Outrage Of Modesty,Above 21 Years Old,722
+2015,Male Arrested For Outrage Of Modesty,21 Years Old And Below,134
+2015,Male Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),114
+2015,Female Arrested For Outrage Of Modesty,Above 21 Years Old,5
+2015,Female Arrested For Outrage Of Modesty,21 Years Old And Below,0
+2015,Female Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),0
+2015,Total Persons Arrested For Robbery,Above 21 Years Old,88
+2015,Total Persons Arrested For Robbery,21 Years Old And Below,38
+2015,Total Persons Arrested For Robbery,Youths (7 To 19 Years Old),28
+2015,Male Arrested For Robbery,Above 21 Years Old,84
+2015,Male Arrested For Robbery,21 Years Old And Below,33
+2015,Male Arrested For Robbery,Youths (7 To 19 Years Old),24
+2015,Female Arrested For Robbery,Above 21 Years Old,4
+2015,Female Arrested For Robbery,21 Years Old And Below,5
+2015,Female Arrested For Robbery,Youths (7 To 19 Years Old),4
+2015,Total Persons Arrested For Housebreaking,Above 21 Years Old,113
+2015,Total Persons Arrested For Housebreaking,21 Years Old And Below,81
+2015,Total Persons Arrested For Housebreaking,Youths (7 To 19 Years Old),66
+2015,Male Arrested For Housebreaking,Above 21 Years Old,110
+2015,Male Arrested For Housebreaking,21 Years Old And Below,78
+2015,Male Arrested For Housebreaking,Youths (7 To 19 Years Old),63
+2015,Female Arrested For Housebreaking,Above 21 Years Old,3
+2015,Female Arrested For Housebreaking,21 Years Old And Below,3
+2015,Female Arrested For Housebreaking,Youths (7 To 19 Years Old),3
+2015,Total Persons Arrested For Theft Of Motor Vehicle,Above 21 Years Old,64
+2015,Total Persons Arrested For Theft Of Motor Vehicle,21 Years Old And Below,77
+2015,Total Persons Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),53
+2015,Male Arrested For Theft Of Motor Vehicle,Above 21 Years Old,59
+2015,Male Arrested For Theft Of Motor Vehicle,21 Years Old And Below,74
+2015,Male Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),53
+2015,Female Arrested For Theft Of Motor Vehicle,Above 21 Years Old,5
+2015,Female Arrested For Theft Of Motor Vehicle,21 Years Old And Below,3
+2015,Female Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),0
+2015,Total Persons Arrested For Snatch Theft,Above 21 Years Old,30
+2015,Total Persons Arrested For Snatch Theft,21 Years Old And Below,11
+2015,Total Persons Arrested For Snatch Theft,Youths (7 To 19 Years Old),8
+2015,Male Arrested For Snatch Theft,Above 21 Years Old,29
+2015,Male Arrested For Snatch Theft,21 Years Old And Below,10
+2015,Male Arrested For Snatch Theft,Youths (7 To 19 Years Old),8
+2015,Female Arrested For Snatch Theft,Above 21 Years Old,1
+2015,Female Arrested For Snatch Theft,21 Years Old And Below,1
+2015,Female Arrested For Snatch Theft,Youths (7 To 19 Years Old),0
+2015,Total Persons Arrested For Rioting,Above 21 Years Old,310
+2015,Total Persons Arrested For Rioting,21 Years Old And Below,220
+2015,Total Persons Arrested For Rioting,Youths (7 To 19 Years Old),172
+2015,Male Arrested For Rioting,Above 21 Years Old,303
+2015,Male Arrested For Rioting,21 Years Old And Below,189
+2015,Male Arrested For Rioting,Youths (7 To 19 Years Old),144
+2015,Female Arrested For Rioting,Above 21 Years Old,7
+2015,Female Arrested For Rioting,21 Years Old And Below,31
+2015,Female Arrested For Rioting,Youths (7 To 19 Years Old),28
+2015,Total Persons Arrested For Serious Hurt,Above 21 Years Old,406
+2015,Total Persons Arrested For Serious Hurt,21 Years Old And Below,54
+2015,Total Persons Arrested For Serious Hurt,Youths (7 To 19 Years Old),35
+2015,Male Arrested For Serious Hurt,Above 21 Years Old,363
+2015,Male Arrested For Serious Hurt,21 Years Old And Below,50
+2015,Male Arrested For Serious Hurt,Youths (7 To 19 Years Old),31
+2015,Female Arrested For Serious Hurt,Above 21 Years Old,43
+2015,Female Arrested For Serious Hurt,21 Years Old And Below,4
+2015,Female Arrested For Serious Hurt,Youths (7 To 19 Years Old),4
+2015,Total Persons Arrested For Cheating & Related,Above 21 Years Old,1802
+2015,Total Persons Arrested For Cheating & Related,21 Years Old And Below,268
+2015,Total Persons Arrested For Cheating & Related,Youths (7 To 19 Years Old),166
+2015,Male Arrested For Cheating & Related,Above 21 Years Old,1263
+2015,Male Arrested For Cheating & Related,21 Years Old And Below,167
+2015,Male Arrested For Cheating & Related,Youths (7 To 19 Years Old),101
+2015,Female Arrested For Cheating & Related,Above 21 Years Old,539
+2015,Female Arrested For Cheating & Related,21 Years Old And Below,101
+2015,Female Arrested For Cheating & Related,Youths (7 To 19 Years Old),65
+2016,Total Persons Arrested For Murder,Above 21 Years Old,41
+2016,Total Persons Arrested For Murder,21 Years Old And Below,2
+2016,Total Persons Arrested For Murder,Youths (7 To 19 Years Old),0
+2016,Male Arrested For Murder,Above 21 Years Old,36
+2016,Male Arrested For Murder,21 Years Old And Below,1
+2016,Male Arrested For Murder,Youths (7 To 19 Years Old),0
+2016,Female Arrested For Murder,Above 21 Years Old,5
+2016,Female Arrested For Murder,21 Years Old And Below,1
+2016,Female Arrested For Murder,Youths (7 To 19 Years Old),0
+2016,Total Persons Arrested For Rape,Above 21 Years Old,47
+2016,Total Persons Arrested For Rape,21 Years Old And Below,44
+2016,Total Persons Arrested For Rape,Youths (7 To 19 Years Old),39
+2016,Male Arrested For Rape,Above 21 Years Old,47
+2016,Male Arrested For Rape,21 Years Old And Below,44
+2016,Male Arrested For Rape,Youths (7 To 19 Years Old),39
+2016,Female Arrested For Rape,Above 21 Years Old,0
+2016,Female Arrested For Rape,21 Years Old And Below,0
+2016,Female Arrested For Rape,Youths (7 To 19 Years Old),0
+2016,Total Persons Arrested For Outrage Of Modesty,Above 21 Years Old,783
+2016,Total Persons Arrested For Outrage Of Modesty,21 Years Old And Below,89
+2016,Total Persons Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),70
+2016,Male Arrested For Outrage Of Modesty,Above 21 Years Old,776
+2016,Male Arrested For Outrage Of Modesty,21 Years Old And Below,88
+2016,Male Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),69
+2016,Female Arrested For Outrage Of Modesty,Above 21 Years Old,7
+2016,Female Arrested For Outrage Of Modesty,21 Years Old And Below,1
+2016,Female Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),1
+2016,Total Persons Arrested For Robbery,Above 21 Years Old,85
+2016,Total Persons Arrested For Robbery,21 Years Old And Below,23
+2016,Total Persons Arrested For Robbery,Youths (7 To 19 Years Old),15
+2016,Male Arrested For Robbery,Above 21 Years Old,81
+2016,Male Arrested For Robbery,21 Years Old And Below,23
+2016,Male Arrested For Robbery,Youths (7 To 19 Years Old),15
+2016,Female Arrested For Robbery,Above 21 Years Old,4
+2016,Female Arrested For Robbery,21 Years Old And Below,0
+2016,Female Arrested For Robbery,Youths (7 To 19 Years Old),0
+2016,Total Persons Arrested For Housebreaking,Above 21 Years Old,103
+2016,Total Persons Arrested For Housebreaking,21 Years Old And Below,63
+2016,Total Persons Arrested For Housebreaking,Youths (7 To 19 Years Old),59
+2016,Male Arrested For Housebreaking,Above 21 Years Old,100
+2016,Male Arrested For Housebreaking,21 Years Old And Below,59
+2016,Male Arrested For Housebreaking,Youths (7 To 19 Years Old),57
+2016,Female Arrested For Housebreaking,Above 21 Years Old,3
+2016,Female Arrested For Housebreaking,21 Years Old And Below,4
+2016,Female Arrested For Housebreaking,Youths (7 To 19 Years Old),2
+2016,Total Persons Arrested For Theft Of Motor Vehicle,Above 21 Years Old,50
+2016,Total Persons Arrested For Theft Of Motor Vehicle,21 Years Old And Below,35
+2016,Total Persons Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),25
+2016,Male Arrested For Theft Of Motor Vehicle,Above 21 Years Old,48
+2016,Male Arrested For Theft Of Motor Vehicle,21 Years Old And Below,34
+2016,Male Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),24
+2016,Female Arrested For Theft Of Motor Vehicle,Above 21 Years Old,2
+2016,Female Arrested For Theft Of Motor Vehicle,21 Years Old And Below,1
+2016,Female Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),1
+2016,Total Persons Arrested For Snatch Theft,Above 21 Years Old,29
+2016,Total Persons Arrested For Snatch Theft,21 Years Old And Below,9
+2016,Total Persons Arrested For Snatch Theft,Youths (7 To 19 Years Old),5
+2016,Male Arrested For Snatch Theft,Above 21 Years Old,29
+2016,Male Arrested For Snatch Theft,21 Years Old And Below,9
+2016,Male Arrested For Snatch Theft,Youths (7 To 19 Years Old),5
+2016,Female Arrested For Snatch Theft,Above 21 Years Old,0
+2016,Female Arrested For Snatch Theft,21 Years Old And Below,0
+2016,Female Arrested For Snatch Theft,Youths (7 To 19 Years Old),0
+2016,Total Persons Arrested For Rioting,Above 21 Years Old,297
+2016,Total Persons Arrested For Rioting,21 Years Old And Below,245
+2016,Total Persons Arrested For Rioting,Youths (7 To 19 Years Old),202
+2016,Male Arrested For Rioting,Above 21 Years Old,290
+2016,Male Arrested For Rioting,21 Years Old And Below,198
+2016,Male Arrested For Rioting,Youths (7 To 19 Years Old),160
+2016,Female Arrested For Rioting,Above 21 Years Old,7
+2016,Female Arrested For Rioting,21 Years Old And Below,47
+2016,Female Arrested For Rioting,Youths (7 To 19 Years Old),42
+2016,Total Persons Arrested For Serious Hurt,Above 21 Years Old,393
+2016,Total Persons Arrested For Serious Hurt,21 Years Old And Below,87
+2016,Total Persons Arrested For Serious Hurt,Youths (7 To 19 Years Old),58
+2016,Male Arrested For Serious Hurt,Above 21 Years Old,345
+2016,Male Arrested For Serious Hurt,21 Years Old And Below,78
+2016,Male Arrested For Serious Hurt,Youths (7 To 19 Years Old),52
+2016,Female Arrested For Serious Hurt,Above 21 Years Old,48
+2016,Female Arrested For Serious Hurt,21 Years Old And Below,9
+2016,Female Arrested For Serious Hurt,Youths (7 To 19 Years Old),6
+2016,Total Persons Arrested For Cheating & Related,Above 21 Years Old,1786
+2016,Total Persons Arrested For Cheating & Related,21 Years Old And Below,257
+2016,Total Persons Arrested For Cheating & Related,Youths (7 To 19 Years Old),143
+2016,Male Arrested For Cheating & Related,Above 21 Years Old,1237
+2016,Male Arrested For Cheating & Related,21 Years Old And Below,162
+2016,Male Arrested For Cheating & Related,Youths (7 To 19 Years Old),91
+2016,Female Arrested For Cheating & Related,Above 21 Years Old,549
+2016,Female Arrested For Cheating & Related,21 Years Old And Below,95
+2016,Female Arrested For Cheating & Related,Youths (7 To 19 Years Old),52
+2017,Total Persons Arrested For Murder,Above 21 Years Old,12
+2017,Total Persons Arrested For Murder,21 Years Old And Below,2
+2017,Total Persons Arrested For Murder,Youths (7 To 19 Years Old),1
+2017,Male Arrested For Murder,Above 21 Years Old,11
+2017,Male Arrested For Murder,21 Years Old And Below,2
+2017,Male Arrested For Murder,Youths (7 To 19 Years Old),1
+2017,Female Arrested For Murder,Above 21 Years Old,1
+2017,Female Arrested For Murder,21 Years Old And Below,0
+2017,Female Arrested For Murder,Youths (7 To 19 Years Old),0
+2017,Total Persons Arrested For Rape,Above 21 Years Old,64
+2017,Total Persons Arrested For Rape,21 Years Old And Below,24
+2017,Total Persons Arrested For Rape,Youths (7 To 19 Years Old),20
+2017,Male Arrested For Rape,Above 21 Years Old,64
+2017,Male Arrested For Rape,21 Years Old And Below,24
+2017,Male Arrested For Rape,Youths (7 To 19 Years Old),20
+2017,Female Arrested For Rape,Above 21 Years Old,0
+2017,Female Arrested For Rape,21 Years Old And Below,0
+2017,Female Arrested For Rape,Youths (7 To 19 Years Old),0
+2017,Total Persons Arrested For Outrage Of Modesty,Above 21 Years Old,872
+2017,Total Persons Arrested For Outrage Of Modesty,21 Years Old And Below,103
+2017,Total Persons Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),76
+2017,Male Arrested For Outrage Of Modesty,Above 21 Years Old,863
+2017,Male Arrested For Outrage Of Modesty,21 Years Old And Below,101
+2017,Male Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),74
+2017,Female Arrested For Outrage Of Modesty,Above 21 Years Old,9
+2017,Female Arrested For Outrage Of Modesty,21 Years Old And Below,2
+2017,Female Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),2
+2017,Total Persons Arrested For Robbery,Above 21 Years Old,69
+2017,Total Persons Arrested For Robbery,21 Years Old And Below,24
+2017,Total Persons Arrested For Robbery,Youths (7 To 19 Years Old),20
+2017,Male Arrested For Robbery,Above 21 Years Old,64
+2017,Male Arrested For Robbery,21 Years Old And Below,22
+2017,Male Arrested For Robbery,Youths (7 To 19 Years Old),18
+2017,Female Arrested For Robbery,Above 21 Years Old,5
+2017,Female Arrested For Robbery,21 Years Old And Below,2
+2017,Female Arrested For Robbery,Youths (7 To 19 Years Old),2
+2017,Total Persons Arrested For Housebreaking,Above 21 Years Old,95
+2017,Total Persons Arrested For Housebreaking,21 Years Old And Below,62
+2017,Total Persons Arrested For Housebreaking,Youths (7 To 19 Years Old),55
+2017,Male Arrested For Housebreaking,Above 21 Years Old,88
+2017,Male Arrested For Housebreaking,21 Years Old And Below,55
+2017,Male Arrested For Housebreaking,Youths (7 To 19 Years Old),48
+2017,Female Arrested For Housebreaking,Above 21 Years Old,7
+2017,Female Arrested For Housebreaking,21 Years Old And Below,7
+2017,Female Arrested For Housebreaking,Youths (7 To 19 Years Old),7
+2017,Total Persons Arrested For Theft Of Motor Vehicle,Above 21 Years Old,54
+2017,Total Persons Arrested For Theft Of Motor Vehicle,21 Years Old And Below,55
+2017,Total Persons Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),46
+2017,Male Arrested For Theft Of Motor Vehicle,Above 21 Years Old,52
+2017,Male Arrested For Theft Of Motor Vehicle,21 Years Old And Below,50
+2017,Male Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),42
+2017,Female Arrested For Theft Of Motor Vehicle,Above 21 Years Old,2
+2017,Female Arrested For Theft Of Motor Vehicle,21 Years Old And Below,5
+2017,Female Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),4
+2017,Total Persons Arrested For Snatch Theft,Above 21 Years Old,34
+2017,Total Persons Arrested For Snatch Theft,21 Years Old And Below,12
+2017,Total Persons Arrested For Snatch Theft,Youths (7 To 19 Years Old),9
+2017,Male Arrested For Snatch Theft,Above 21 Years Old,32
+2017,Male Arrested For Snatch Theft,21 Years Old And Below,9
+2017,Male Arrested For Snatch Theft,Youths (7 To 19 Years Old),6
+2017,Female Arrested For Snatch Theft,Above 21 Years Old,2
+2017,Female Arrested For Snatch Theft,21 Years Old And Below,3
+2017,Female Arrested For Snatch Theft,Youths (7 To 19 Years Old),3
+2017,Total Persons Arrested For Rioting,Above 21 Years Old,255
+2017,Total Persons Arrested For Rioting,21 Years Old And Below,184
+2017,Total Persons Arrested For Rioting,Youths (7 To 19 Years Old),152
+2017,Male Arrested For Rioting,Above 21 Years Old,245
+2017,Male Arrested For Rioting,21 Years Old And Below,172
+2017,Male Arrested For Rioting,Youths (7 To 19 Years Old),142
+2017,Female Arrested For Rioting,Above 21 Years Old,10
+2017,Female Arrested For Rioting,21 Years Old And Below,12
+2017,Female Arrested For Rioting,Youths (7 To 19 Years Old),10
+2017,Total Persons Arrested For Serious Hurt,Above 21 Years Old,343
+2017,Total Persons Arrested For Serious Hurt,21 Years Old And Below,51
+2017,Total Persons Arrested For Serious Hurt,Youths (7 To 19 Years Old),27
+2017,Male Arrested For Serious Hurt,Above 21 Years Old,302
+2017,Male Arrested For Serious Hurt,21 Years Old And Below,42
+2017,Male Arrested For Serious Hurt,Youths (7 To 19 Years Old),24
+2017,Female Arrested For Serious Hurt,Above 21 Years Old,41
+2017,Female Arrested For Serious Hurt,21 Years Old And Below,9
+2017,Female Arrested For Serious Hurt,Youths (7 To 19 Years Old),3
+2017,Total Persons Arrested For Cheating & Related,Above 21 Years Old,2049
+2017,Total Persons Arrested For Cheating & Related,21 Years Old And Below,351
+2017,Total Persons Arrested For Cheating & Related,Youths (7 To 19 Years Old),233
+2017,Male Arrested For Cheating & Related,Above 21 Years Old,1444
+2017,Male Arrested For Cheating & Related,21 Years Old And Below,228
+2017,Male Arrested For Cheating & Related,Youths (7 To 19 Years Old),146
+2017,Female Arrested For Cheating & Related,Above 21 Years Old,605
+2017,Female Arrested For Cheating & Related,21 Years Old And Below,123
+2017,Female Arrested For Cheating & Related,Youths (7 To 19 Years Old),87
+2018,Total Persons Arrested For Murder,Above 21 Years Old,8
+2018,Total Persons Arrested For Murder,21 Years Old And Below,1
+2018,Total Persons Arrested For Murder,Youths (7 To 19 Years Old),0
+2018,Male Arrested For Murder,Above 21 Years Old,7
+2018,Male Arrested For Murder,21 Years Old And Below,0
+2018,Male Arrested For Murder,Youths (7 To 19 Years Old),0
+2018,Female Arrested For Murder,Above 21 Years Old,1
+2018,Female Arrested For Murder,21 Years Old And Below,1
+2018,Female Arrested For Murder,Youths (7 To 19 Years Old),0
+2018,Total Persons Arrested For Rape,Above 21 Years Old,116
+2018,Total Persons Arrested For Rape,21 Years Old And Below,56
+2018,Total Persons Arrested For Rape,Youths (7 To 19 Years Old),48
+2018,Male Arrested For Rape,Above 21 Years Old,116
+2018,Male Arrested For Rape,21 Years Old And Below,56
+2018,Male Arrested For Rape,Youths (7 To 19 Years Old),48
+2018,Female Arrested For Rape,Above 21 Years Old,0
+2018,Female Arrested For Rape,21 Years Old And Below,0
+2018,Female Arrested For Rape,Youths (7 To 19 Years Old),0
+2018,Total Persons Arrested For Outrage Of Modesty,Above 21 Years Old,978
+2018,Total Persons Arrested For Outrage Of Modesty,21 Years Old And Below,144
+2018,Total Persons Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),103
+2018,Male Arrested For Outrage Of Modesty,Above 21 Years Old,969
+2018,Male Arrested For Outrage Of Modesty,21 Years Old And Below,143
+2018,Male Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),102
+2018,Female Arrested For Outrage Of Modesty,Above 21 Years Old,9
+2018,Female Arrested For Outrage Of Modesty,21 Years Old And Below,1
+2018,Female Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),1
+2018,Total Persons Arrested For Robbery,Above 21 Years Old,77
+2018,Total Persons Arrested For Robbery,21 Years Old And Below,22
+2018,Total Persons Arrested For Robbery,Youths (7 To 19 Years Old),17
+2018,Male Arrested For Robbery,Above 21 Years Old,73
+2018,Male Arrested For Robbery,21 Years Old And Below,21
+2018,Male Arrested For Robbery,Youths (7 To 19 Years Old),17
+2018,Female Arrested For Robbery,Above 21 Years Old,4
+2018,Female Arrested For Robbery,21 Years Old And Below,1
+2018,Female Arrested For Robbery,Youths (7 To 19 Years Old),0
+2018,Total Persons Arrested For Housebreaking,Above 21 Years Old,96
+2018,Total Persons Arrested For Housebreaking,21 Years Old And Below,80
+2018,Total Persons Arrested For Housebreaking,Youths (7 To 19 Years Old),72
+2018,Male Arrested For Housebreaking,Above 21 Years Old,86
+2018,Male Arrested For Housebreaking,21 Years Old And Below,75
+2018,Male Arrested For Housebreaking,Youths (7 To 19 Years Old),67
+2018,Female Arrested For Housebreaking,Above 21 Years Old,10
+2018,Female Arrested For Housebreaking,21 Years Old And Below,5
+2018,Female Arrested For Housebreaking,Youths (7 To 19 Years Old),5
+2018,Total Persons Arrested For Theft Of Motor Vehicle,Above 21 Years Old,35
+2018,Total Persons Arrested For Theft Of Motor Vehicle,21 Years Old And Below,38
+2018,Total Persons Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),35
+2018,Male Arrested For Theft Of Motor Vehicle,Above 21 Years Old,34
+2018,Male Arrested For Theft Of Motor Vehicle,21 Years Old And Below,36
+2018,Male Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),33
+2018,Female Arrested For Theft Of Motor Vehicle,Above 21 Years Old,1
+2018,Female Arrested For Theft Of Motor Vehicle,21 Years Old And Below,2
+2018,Female Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),2
+2018,Total Persons Arrested For Snatch Theft,Above 21 Years Old,25
+2018,Total Persons Arrested For Snatch Theft,21 Years Old And Below,10
+2018,Total Persons Arrested For Snatch Theft,Youths (7 To 19 Years Old),8
+2018,Male Arrested For Snatch Theft,Above 21 Years Old,23
+2018,Male Arrested For Snatch Theft,21 Years Old And Below,9
+2018,Male Arrested For Snatch Theft,Youths (7 To 19 Years Old),7
+2018,Female Arrested For Snatch Theft,Above 21 Years Old,2
+2018,Female Arrested For Snatch Theft,21 Years Old And Below,1
+2018,Female Arrested For Snatch Theft,Youths (7 To 19 Years Old),1
+2018,Total Persons Arrested For Rioting,Above 21 Years Old,182
+2018,Total Persons Arrested For Rioting,21 Years Old And Below,199
+2018,Total Persons Arrested For Rioting,Youths (7 To 19 Years Old),151
+2018,Male Arrested For Rioting,Above 21 Years Old,177
+2018,Male Arrested For Rioting,21 Years Old And Below,184
+2018,Male Arrested For Rioting,Youths (7 To 19 Years Old),137
+2018,Female Arrested For Rioting,Above 21 Years Old,5
+2018,Female Arrested For Rioting,21 Years Old And Below,15
+2018,Female Arrested For Rioting,Youths (7 To 19 Years Old),14
+2018,Total Persons Arrested For Serious Hurt,Above 21 Years Old,352
+2018,Total Persons Arrested For Serious Hurt,21 Years Old And Below,59
+2018,Total Persons Arrested For Serious Hurt,Youths (7 To 19 Years Old),34
+2018,Male Arrested For Serious Hurt,Above 21 Years Old,310
+2018,Male Arrested For Serious Hurt,21 Years Old And Below,46
+2018,Male Arrested For Serious Hurt,Youths (7 To 19 Years Old),25
+2018,Female Arrested For Serious Hurt,Above 21 Years Old,42
+2018,Female Arrested For Serious Hurt,21 Years Old And Below,13
+2018,Female Arrested For Serious Hurt,Youths (7 To 19 Years Old),9
+2018,Total Persons Arrested For Cheating & Related,Above 21 Years Old,2396
+2018,Total Persons Arrested For Cheating & Related,21 Years Old And Below,351
+2018,Total Persons Arrested For Cheating & Related,Youths (7 To 19 Years Old),234
+2018,Male Arrested For Cheating & Related,Above 21 Years Old,1628
+2018,Male Arrested For Cheating & Related,21 Years Old And Below,237
+2018,Male Arrested For Cheating & Related,Youths (7 To 19 Years Old),153
+2018,Female Arrested For Cheating & Related,Above 21 Years Old,768
+2018,Female Arrested For Cheating & Related,21 Years Old And Below,114
+2018,Female Arrested For Cheating & Related,Youths (7 To 19 Years Old),81
+2019,Total Persons Arrested For Murder,Above 21 Years Old,27
+2019,Total Persons Arrested For Murder,21 Years Old And Below,1
+2019,Total Persons Arrested For Murder,Youths (7 To 19 Years Old),1
+2019,Male Arrested For Murder,Above 21 Years Old,21
+2019,Male Arrested For Murder,21 Years Old And Below,0
+2019,Male Arrested For Murder,Youths (7 To 19 Years Old),0
+2019,Female Arrested For Murder,Above 21 Years Old,6
+2019,Female Arrested For Murder,21 Years Old And Below,1
+2019,Female Arrested For Murder,Youths (7 To 19 Years Old),1
+2019,Total Persons Arrested For Rape,Above 21 Years Old,113
+2019,Total Persons Arrested For Rape,21 Years Old And Below,58
+2019,Total Persons Arrested For Rape,Youths (7 To 19 Years Old),43
+2019,Male Arrested For Rape,Above 21 Years Old,113
+2019,Male Arrested For Rape,21 Years Old And Below,58
+2019,Male Arrested For Rape,Youths (7 To 19 Years Old),43
+2019,Female Arrested For Rape,Above 21 Years Old,0
+2019,Female Arrested For Rape,21 Years Old And Below,0
+2019,Female Arrested For Rape,Youths (7 To 19 Years Old),0
+2019,Total Persons Arrested For Outrage Of Modesty,Above 21 Years Old,977
+2019,Total Persons Arrested For Outrage Of Modesty,21 Years Old And Below,100
+2019,Total Persons Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),78
+2019,Male Arrested For Outrage Of Modesty,Above 21 Years Old,967
+2019,Male Arrested For Outrage Of Modesty,21 Years Old And Below,99
+2019,Male Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),77
+2019,Female Arrested For Outrage Of Modesty,Above 21 Years Old,10
+2019,Female Arrested For Outrage Of Modesty,21 Years Old And Below,1
+2019,Female Arrested For Outrage Of Modesty,Youths (7 To 19 Years Old),1
+2019,Total Persons Arrested For Robbery,Above 21 Years Old,82
+2019,Total Persons Arrested For Robbery,21 Years Old And Below,23
+2019,Total Persons Arrested For Robbery,Youths (7 To 19 Years Old),17
+2019,Male Arrested For Robbery,Above 21 Years Old,77
+2019,Male Arrested For Robbery,21 Years Old And Below,23
+2019,Male Arrested For Robbery,Youths (7 To 19 Years Old),17
+2019,Female Arrested For Robbery,Above 21 Years Old,5
+2019,Female Arrested For Robbery,21 Years Old And Below,0
+2019,Female Arrested For Robbery,Youths (7 To 19 Years Old),0
+2019,Total Persons Arrested For Housebreaking,Above 21 Years Old,114
+2019,Total Persons Arrested For Housebreaking,21 Years Old And Below,30
+2019,Total Persons Arrested For Housebreaking,Youths (7 To 19 Years Old),27
+2019,Male Arrested For Housebreaking,Above 21 Years Old,108
+2019,Male Arrested For Housebreaking,21 Years Old And Below,25
+2019,Male Arrested For Housebreaking,Youths (7 To 19 Years Old),22
+2019,Female Arrested For Housebreaking,Above 21 Years Old,6
+2019,Female Arrested For Housebreaking,21 Years Old And Below,5
+2019,Female Arrested For Housebreaking,Youths (7 To 19 Years Old),5
+2019,Total Persons Arrested For Theft Of Motor Vehicle,Above 21 Years Old,42
+2019,Total Persons Arrested For Theft Of Motor Vehicle,21 Years Old And Below,22
+2019,Total Persons Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),20
+2019,Male Arrested For Theft Of Motor Vehicle,Above 21 Years Old,40
+2019,Male Arrested For Theft Of Motor Vehicle,21 Years Old And Below,21
+2019,Male Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),19
+2019,Female Arrested For Theft Of Motor Vehicle,Above 21 Years Old,2
+2019,Female Arrested For Theft Of Motor Vehicle,21 Years Old And Below,1
+2019,Female Arrested For Theft Of Motor Vehicle,Youths (7 To 19 Years Old),1
+2019,Total Persons Arrested For Snatch Theft,Above 21 Years Old,28
+2019,Total Persons Arrested For Snatch Theft,21 Years Old And Below,2
+2019,Total Persons Arrested For Snatch Theft,Youths (7 To 19 Years Old),0
+2019,Male Arrested For Snatch Theft,Above 21 Years Old,27
+2019,Male Arrested For Snatch Theft,21 Years Old And Below,2
+2019,Male Arrested For Snatch Theft,Youths (7 To 19 Years Old),0
+2019,Female Arrested For Snatch Theft,Above 21 Years Old,1
+2019,Female Arrested For Snatch Theft,21 Years Old And Below,0
+2019,Female Arrested For Snatch Theft,Youths (7 To 19 Years Old),0
+2019,Total Persons Arrested For Rioting,Above 21 Years Old,195
+2019,Total Persons Arrested For Rioting,21 Years Old And Below,200
+2019,Total Persons Arrested For Rioting,Youths (7 To 19 Years Old),153
+2019,Male Arrested For Rioting,Above 21 Years Old,195
+2019,Male Arrested For Rioting,21 Years Old And Below,183
+2019,Male Arrested For Rioting,Youths (7 To 19 Years Old),138
+2019,Female Arrested For Rioting,Above 21 Years Old,0
+2019,Female Arrested For Rioting,21 Years Old And Below,17
+2019,Female Arrested For Rioting,Youths (7 To 19 Years Old),15
+2019,Total Persons Arrested For Serious Hurt,Above 21 Years Old,385
+2019,Total Persons Arrested For Serious Hurt,21 Years Old And Below,58
+2019,Total Persons Arrested For Serious Hurt,Youths (7 To 19 Years Old),36
+2019,Male Arrested For Serious Hurt,Above 21 Years Old,343
+2019,Male Arrested For Serious Hurt,21 Years Old And Below,48
+2019,Male Arrested For Serious Hurt,Youths (7 To 19 Years Old),26
+2019,Female Arrested For Serious Hurt,Above 21 Years Old,42
+2019,Female Arrested For Serious Hurt,21 Years Old And Below,10
+2019,Female Arrested For Serious Hurt,Youths (7 To 19 Years Old),10
+2019,Total Persons Arrested For Cheating & Related,Above 21 Years Old,2283
+2019,Total Persons Arrested For Cheating & Related,21 Years Old And Below,332
+2019,Total Persons Arrested For Cheating & Related,Youths (7 To 19 Years Old),212
+2019,Male Arrested For Cheating & Related,Above 21 Years Old,1615
+2019,Male Arrested For Cheating & Related,21 Years Old And Below,214
+2019,Male Arrested For Cheating & Related,Youths (7 To 19 Years Old),141
+2019,Female Arrested For Cheating & Related,Above 21 Years Old,668
+2019,Female Arrested For Cheating & Related,21 Years Old And Below,118
+2019,Female Arrested For Cheating & Related,Youths (7 To 19 Years Old),71

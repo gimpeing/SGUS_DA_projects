@@ -1,0 +1,865 @@
+year,level_1,level_2,value
+2011,Central Police Division - Total,Unlicensed Moneylending,242
+2011,Central Police Division - Total,Harassment,484
+2011,Central Police Division - Bukit Merah East NPC,Unlicensed Moneylending,193
+2011,Central Police Division - Bukit Merah East NPC,Harassment,286
+2011,Central Police Division - Marina Bay NPC,Unlicensed Moneylending,18
+2011,Central Police Division - Marina Bay NPC,Harassment,16
+2011,Central Police Division - Rochor NPC,Unlicensed Moneylending,31
+2011,Central Police Division - Rochor NPC,Harassment,182
+2011,Clementi Police Division - Total,Unlicensed Moneylending,195
+2011,Clementi Police Division - Total,Harassment,1097
+2011,Clementi Police Division - Bukit Merah West NPC,Unlicensed Moneylending,40
+2011,Clementi Police Division - Bukit Merah West NPC,Harassment,244
+2011,Clementi Police Division - Clementi NPC,Unlicensed Moneylending,83
+2011,Clementi Police Division - Clementi NPC,Harassment,325
+2011,Clementi Police Division - Jurong East NPC,Unlicensed Moneylending,42
+2011,Clementi Police Division - Jurong East NPC,Harassment,290
+2011,Clementi Police Division - Queenstown NPC,Unlicensed Moneylending,30
+2011,Clementi Police Division - Queenstown NPC,Harassment,238
+2011,Tanglin Police Division - Total,Unlicensed Moneylending,163
+2011,Tanglin Police Division - Total,Harassment,1193
+2011,Tanglin Police Division - Bishan NPC,Unlicensed Moneylending,15
+2011,Tanglin Police Division - Bishan NPC,Harassment,273
+2011,Tanglin Police Division - Bukit Timah NPC,Unlicensed Moneylending,10
+2011,Tanglin Police Division - Bukit Timah NPC,Harassment,107
+2011,Tanglin Police Division - Kampong Java NPC,Unlicensed Moneylending,82
+2011,Tanglin Police Division - Kampong Java NPC,Harassment,191
+2011,Tanglin Police Division - Orchard NPC,Unlicensed Moneylending,5
+2011,Tanglin Police Division - Orchard NPC,Harassment,6
+2011,Tanglin Police Division - Toa Payoh NPC,Unlicensed Moneylending,51
+2011,Tanglin Police Division - Toa Payoh NPC,Harassment,616
+2011,Ang Mo Kio Police Division - Total,Unlicensed Moneylending,363
+2011,Ang Mo Kio Police Division - Total,Harassment,3417
+2011,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Unlicensed Moneylending,156
+2011,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Harassment,471
+2011,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Unlicensed Moneylending,22
+2011,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Harassment,422
+2011,Ang Mo Kio Police Division - Hougang NPC,Unlicensed Moneylending,55
+2011,Ang Mo Kio Police Division - Hougang NPC,Harassment,790
+2011,Ang Mo Kio Police Division - Punggol NPC,Unlicensed Moneylending,na
+2011,Ang Mo Kio Police Division - Punggol NPC,Harassment,na
+2011,Ang Mo Kio Police Division - Sembawang NPC,Unlicensed Moneylending,18
+2011,Ang Mo Kio Police Division - Sembawang NPC,Harassment,162
+2011,Ang Mo Kio Police Division - Sengkang NPC,Unlicensed Moneylending,44
+2011,Ang Mo Kio Police Division - Sengkang NPC,Harassment,558
+2011,Ang Mo Kio Police Division - Serangoon NPC,Unlicensed Moneylending,19
+2011,Ang Mo Kio Police Division - Serangoon NPC,Harassment,375
+2011,Ang Mo Kio Police Division - Yishun North NPC,Unlicensed Moneylending,19
+2011,Ang Mo Kio Police Division - Yishun North NPC,Harassment,313
+2011,Ang Mo Kio Police Division - Yishun South NPC,Unlicensed Moneylending,30
+2011,Ang Mo Kio Police Division - Yishun South NPC,Harassment,326
+2011,Bedok Police Division - Total,Unlicensed Moneylending,266
+2011,Bedok Police Division - Total,Harassment,2676
+2011,Bedok Police Division - Bedok North NPC,Unlicensed Moneylending,69
+2011,Bedok Police Division - Bedok North NPC,Harassment,689
+2011,Bedok Police Division - Bedok South NPC,Unlicensed Moneylending,27
+2011,Bedok Police Division - Bedok South NPC,Harassment,231
+2011,Bedok Police Division - Changi NPC,Unlicensed Moneylending,22
+2011,Bedok Police Division - Changi NPC,Harassment,310
+2011,Bedok Police Division - Geylang NPC,Unlicensed Moneylending,30
+2011,Bedok Police Division - Geylang NPC,Harassment,291
+2011,Bedok Police Division - Marine Parade NPC,Unlicensed Moneylending,12
+2011,Bedok Police Division - Marine Parade NPC,Harassment,79
+2011,Bedok Police Division - Pasir Ris NPC,Unlicensed Moneylending,16
+2011,Bedok Police Division - Pasir Ris NPC,Harassment,438
+2011,Bedok Police Division - Tampines NPC,Unlicensed Moneylending,90
+2011,Bedok Police Division - Tampines NPC,Harassment,638
+2011,Jurong Police Division - Total,Unlicensed Moneylending,324
+2011,Jurong Police Division - Total,Harassment,2905
+2011,Jurong Police Division - Bukit Batok NPC,Unlicensed Moneylending,33
+2011,Jurong Police Division - Bukit Batok NPC,Harassment,412
+2011,Jurong Police Division - Bukit Panjang NPC,Unlicensed Moneylending,20
+2011,Jurong Police Division - Bukit Panjang NPC,Harassment,315
+2011,Jurong Police Division - Choa Chu Kang NPC,Unlicensed Moneylending,33
+2011,Jurong Police Division - Choa Chu Kang NPC,Harassment,388
+2011,Jurong Police Division - Jurong West NPC,Unlicensed Moneylending,38
+2011,Jurong Police Division - Jurong West NPC,Harassment,451
+2011,Jurong Police Division - Nanyang NPC,Unlicensed Moneylending,125
+2011,Jurong Police Division - Nanyang NPC,Harassment,430
+2011,Jurong Police Division - Woodlands NPC,Unlicensed Moneylending,75
+2011,Jurong Police Division - Woodlands NPC,Harassment,909
+2011,Jurong Police Division - Woodlands East NPC,Unlicensed Moneylending,na
+2011,Jurong Police Division - Woodlands East NPC,Harassment,na
+2011,Jurong Police Division - Woodlands West NPC,Unlicensed Moneylending,na
+2011,Jurong Police Division - Woodlands West NPC,Harassment,na
+2011,Woodlands Police Division - Total,Unlicensed Moneylending,-
+2011,Woodlands Police Division - Total,Harassment,-
+2011,Woodlands Police Division - Woodlands East NPC,Unlicensed Moneylending,-
+2011,Woodlands Police Division - Woodlands East NPC,Harassment,-
+2011,Woodlands Police Division - Woodlands West NPC,Unlicensed Moneylending,-
+2011,Woodlands Police Division - Woodlands West NPC,Harassment,-
+2011,Woodlands Police Division - Yishun North NPC,Unlicensed Moneylending,-
+2011,Woodlands Police Division - Yishun North NPC,Harassment,-
+2011,Woodlands Police Division - Yishun South NPC,Unlicensed Moneylending,-
+2011,Woodlands Police Division - Yishun South NPC,Harassment,-
+2011,Woodlands Police Division - Sembawang NPC,Unlicensed Moneylending,-
+2011,Woodlands Police Division - Sembawang NPC,Harassment,-
+2012,Central Police Division - Total,Unlicensed Moneylending,66
+2012,Central Police Division - Total,Harassment,380
+2012,Central Police Division - Bukit Merah East NPC,Unlicensed Moneylending,34
+2012,Central Police Division - Bukit Merah East NPC,Harassment,182
+2012,Central Police Division - Marina Bay NPC,Unlicensed Moneylending,4
+2012,Central Police Division - Marina Bay NPC,Harassment,18
+2012,Central Police Division - Rochor NPC,Unlicensed Moneylending,28
+2012,Central Police Division - Rochor NPC,Harassment,180
+2012,Clementi Police Division - Total,Unlicensed Moneylending,162
+2012,Clementi Police Division - Total,Harassment,901
+2012,Clementi Police Division - Bukit Merah West NPC,Unlicensed Moneylending,29
+2012,Clementi Police Division - Bukit Merah West NPC,Harassment,234
+2012,Clementi Police Division - Clementi NPC,Unlicensed Moneylending,77
+2012,Clementi Police Division - Clementi NPC,Harassment,185
+2012,Clementi Police Division - Jurong East NPC,Unlicensed Moneylending,18
+2012,Clementi Police Division - Jurong East NPC,Harassment,245
+2012,Clementi Police Division - Queenstown NPC,Unlicensed Moneylending,38
+2012,Clementi Police Division - Queenstown NPC,Harassment,237
+2012,Tanglin Police Division - Total,Unlicensed Moneylending,74
+2012,Tanglin Police Division - Total,Harassment,621
+2012,Tanglin Police Division - Bishan NPC,Unlicensed Moneylending,8
+2012,Tanglin Police Division - Bishan NPC,Harassment,130
+2012,Tanglin Police Division - Bukit Timah NPC,Unlicensed Moneylending,5
+2012,Tanglin Police Division - Bukit Timah NPC,Harassment,37
+2012,Tanglin Police Division - Kampong Java NPC,Unlicensed Moneylending,16
+2012,Tanglin Police Division - Kampong Java NPC,Harassment,107
+2012,Tanglin Police Division - Orchard NPC,Unlicensed Moneylending,5
+2012,Tanglin Police Division - Orchard NPC,Harassment,4
+2012,Tanglin Police Division - Toa Payoh NPC,Unlicensed Moneylending,40
+2012,Tanglin Police Division - Toa Payoh NPC,Harassment,343
+2012,Ang Mo Kio Police Division - Total,Unlicensed Moneylending,311
+2012,Ang Mo Kio Police Division - Total,Harassment,2376
+2012,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Unlicensed Moneylending,74
+2012,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Harassment,258
+2012,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Unlicensed Moneylending,35
+2012,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Harassment,311
+2012,Ang Mo Kio Police Division - Hougang NPC,Unlicensed Moneylending,55
+2012,Ang Mo Kio Police Division - Hougang NPC,Harassment,542
+2012,Ang Mo Kio Police Division - Punggol NPC,Unlicensed Moneylending,na
+2012,Ang Mo Kio Police Division - Punggol NPC,Harassment,na
+2012,Ang Mo Kio Police Division - Sembawang NPC,Unlicensed Moneylending,17
+2012,Ang Mo Kio Police Division - Sembawang NPC,Harassment,125
+2012,Ang Mo Kio Police Division - Sengkang NPC,Unlicensed Moneylending,45
+2012,Ang Mo Kio Police Division - Sengkang NPC,Harassment,447
+2012,Ang Mo Kio Police Division - Serangoon NPC,Unlicensed Moneylending,16
+2012,Ang Mo Kio Police Division - Serangoon NPC,Harassment,226
+2012,Ang Mo Kio Police Division - Yishun North NPC,Unlicensed Moneylending,36
+2012,Ang Mo Kio Police Division - Yishun North NPC,Harassment,236
+2012,Ang Mo Kio Police Division - Yishun South NPC,Unlicensed Moneylending,33
+2012,Ang Mo Kio Police Division - Yishun South NPC,Harassment,231
+2012,Bedok Police Division - Total,Unlicensed Moneylending,150
+2012,Bedok Police Division - Total,Harassment,2186
+2012,Bedok Police Division - Bedok North NPC,Unlicensed Moneylending,22
+2012,Bedok Police Division - Bedok North NPC,Harassment,493
+2012,Bedok Police Division - Bedok South NPC,Unlicensed Moneylending,17
+2012,Bedok Police Division - Bedok South NPC,Harassment,195
+2012,Bedok Police Division - Changi NPC,Unlicensed Moneylending,22
+2012,Bedok Police Division - Changi NPC,Harassment,270
+2012,Bedok Police Division - Geylang NPC,Unlicensed Moneylending,33
+2012,Bedok Police Division - Geylang NPC,Harassment,213
+2012,Bedok Police Division - Marine Parade NPC,Unlicensed Moneylending,7
+2012,Bedok Police Division - Marine Parade NPC,Harassment,78
+2012,Bedok Police Division - Pasir Ris NPC,Unlicensed Moneylending,17
+2012,Bedok Police Division - Pasir Ris NPC,Harassment,373
+2012,Bedok Police Division - Tampines NPC,Unlicensed Moneylending,32
+2012,Bedok Police Division - Tampines NPC,Harassment,564
+2012,Jurong Police Division - Total,Unlicensed Moneylending,262
+2012,Jurong Police Division - Total,Harassment,2450
+2012,Jurong Police Division - Bukit Batok NPC,Unlicensed Moneylending,34
+2012,Jurong Police Division - Bukit Batok NPC,Harassment,288
+2012,Jurong Police Division - Bukit Panjang NPC,Unlicensed Moneylending,22
+2012,Jurong Police Division - Bukit Panjang NPC,Harassment,353
+2012,Jurong Police Division - Choa Chu Kang NPC,Unlicensed Moneylending,30
+2012,Jurong Police Division - Choa Chu Kang NPC,Harassment,419
+2012,Jurong Police Division - Jurong West NPC,Unlicensed Moneylending,30
+2012,Jurong Police Division - Jurong West NPC,Harassment,324
+2012,Jurong Police Division - Nanyang NPC,Unlicensed Moneylending,77
+2012,Jurong Police Division - Nanyang NPC,Harassment,347
+2012,Jurong Police Division - Woodlands NPC,Unlicensed Moneylending,na
+2012,Jurong Police Division - Woodlands NPC,Harassment,na
+2012,Jurong Police Division - Woodlands East NPC,Unlicensed Moneylending,43
+2012,Jurong Police Division - Woodlands East NPC,Harassment,458
+2012,Jurong Police Division - Woodlands West NPC,Unlicensed Moneylending,26
+2012,Jurong Police Division - Woodlands West NPC,Harassment,261
+2012,Woodlands Police Division - Total,Unlicensed Moneylending,-
+2012,Woodlands Police Division - Total,Harassment,-
+2012,Woodlands Police Division - Woodlands East NPC,Unlicensed Moneylending,-
+2012,Woodlands Police Division - Woodlands East NPC,Harassment,-
+2012,Woodlands Police Division - Woodlands West NPC,Unlicensed Moneylending,-
+2012,Woodlands Police Division - Woodlands West NPC,Harassment,-
+2012,Woodlands Police Division - Yishun North NPC,Unlicensed Moneylending,-
+2012,Woodlands Police Division - Yishun North NPC,Harassment,-
+2012,Woodlands Police Division - Yishun South NPC,Unlicensed Moneylending,-
+2012,Woodlands Police Division - Yishun South NPC,Harassment,-
+2012,Woodlands Police Division - Sembawang NPC,Unlicensed Moneylending,-
+2012,Woodlands Police Division - Sembawang NPC,Harassment,-
+2013,Central Police Division - Total,Unlicensed Moneylending,136
+2013,Central Police Division - Total,Harassment,279
+2013,Central Police Division - Bukit Merah East NPC,Unlicensed Moneylending,117
+2013,Central Police Division - Bukit Merah East NPC,Harassment,151
+2013,Central Police Division - Marina Bay NPC,Unlicensed Moneylending,6
+2013,Central Police Division - Marina Bay NPC,Harassment,12
+2013,Central Police Division - Rochor NPC,Unlicensed Moneylending,13
+2013,Central Police Division - Rochor NPC,Harassment,116
+2013,Clementi Police Division - Total,Unlicensed Moneylending,135
+2013,Clementi Police Division - Total,Harassment,710
+2013,Clementi Police Division - Bukit Merah West NPC,Unlicensed Moneylending,17
+2013,Clementi Police Division - Bukit Merah West NPC,Harassment,165
+2013,Clementi Police Division - Clementi NPC,Unlicensed Moneylending,69
+2013,Clementi Police Division - Clementi NPC,Harassment,163
+2013,Clementi Police Division - Jurong East NPC,Unlicensed Moneylending,18
+2013,Clementi Police Division - Jurong East NPC,Harassment,196
+2013,Clementi Police Division - Queenstown NPC,Unlicensed Moneylending,31
+2013,Clementi Police Division - Queenstown NPC,Harassment,186
+2013,Tanglin Police Division - Total,Unlicensed Moneylending,48
+2013,Tanglin Police Division - Total,Harassment,477
+2013,Tanglin Police Division - Bishan NPC,Unlicensed Moneylending,13
+2013,Tanglin Police Division - Bishan NPC,Harassment,111
+2013,Tanglin Police Division - Bukit Timah NPC,Unlicensed Moneylending,1
+2013,Tanglin Police Division - Bukit Timah NPC,Harassment,33
+2013,Tanglin Police Division - Kampong Java NPC,Unlicensed Moneylending,13
+2013,Tanglin Police Division - Kampong Java NPC,Harassment,80
+2013,Tanglin Police Division - Orchard NPC,Unlicensed Moneylending,4
+2013,Tanglin Police Division - Orchard NPC,Harassment,5
+2013,Tanglin Police Division - Toa Payoh NPC,Unlicensed Moneylending,17
+2013,Tanglin Police Division - Toa Payoh NPC,Harassment,248
+2013,Ang Mo Kio Police Division - Total,Unlicensed Moneylending,284
+2013,Ang Mo Kio Police Division - Total,Harassment,1782
+2013,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Unlicensed Moneylending,92
+2013,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Harassment,191
+2013,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Unlicensed Moneylending,23
+2013,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Harassment,172
+2013,Ang Mo Kio Police Division - Hougang NPC,Unlicensed Moneylending,73
+2013,Ang Mo Kio Police Division - Hougang NPC,Harassment,433
+2013,Ang Mo Kio Police Division - Punggol NPC,Unlicensed Moneylending,6
+2013,Ang Mo Kio Police Division - Punggol NPC,Harassment,122
+2013,Ang Mo Kio Police Division - Sembawang NPC,Unlicensed Moneylending,9
+2013,Ang Mo Kio Police Division - Sembawang NPC,Harassment,93
+2013,Ang Mo Kio Police Division - Sengkang NPC,Unlicensed Moneylending,26
+2013,Ang Mo Kio Police Division - Sengkang NPC,Harassment,295
+2013,Ang Mo Kio Police Division - Serangoon NPC,Unlicensed Moneylending,10
+2013,Ang Mo Kio Police Division - Serangoon NPC,Harassment,126
+2013,Ang Mo Kio Police Division - Yishun North NPC,Unlicensed Moneylending,24
+2013,Ang Mo Kio Police Division - Yishun North NPC,Harassment,239
+2013,Ang Mo Kio Police Division - Yishun South NPC,Unlicensed Moneylending,21
+2013,Ang Mo Kio Police Division - Yishun South NPC,Harassment,111
+2013,Bedok Police Division - Total,Unlicensed Moneylending,147
+2013,Bedok Police Division - Total,Harassment,1769
+2013,Bedok Police Division - Bedok North NPC,Unlicensed Moneylending,57
+2013,Bedok Police Division - Bedok North NPC,Harassment,375
+2013,Bedok Police Division - Bedok South NPC,Unlicensed Moneylending,10
+2013,Bedok Police Division - Bedok South NPC,Harassment,154
+2013,Bedok Police Division - Changi NPC,Unlicensed Moneylending,14
+2013,Bedok Police Division - Changi NPC,Harassment,254
+2013,Bedok Police Division - Geylang NPC,Unlicensed Moneylending,30
+2013,Bedok Police Division - Geylang NPC,Harassment,174
+2013,Bedok Police Division - Marine Parade NPC,Unlicensed Moneylending,5
+2013,Bedok Police Division - Marine Parade NPC,Harassment,52
+2013,Bedok Police Division - Pasir Ris NPC,Unlicensed Moneylending,8
+2013,Bedok Police Division - Pasir Ris NPC,Harassment,265
+2013,Bedok Police Division - Tampines NPC,Unlicensed Moneylending,23
+2013,Bedok Police Division - Tampines NPC,Harassment,495
+2013,Jurong Police Division - Total,Unlicensed Moneylending,490
+2013,Jurong Police Division - Total,Harassment,2029
+2013,Jurong Police Division - Bukit Batok NPC,Unlicensed Moneylending,30
+2013,Jurong Police Division - Bukit Batok NPC,Harassment,300
+2013,Jurong Police Division - Bukit Panjang NPC,Unlicensed Moneylending,23
+2013,Jurong Police Division - Bukit Panjang NPC,Harassment,231
+2013,Jurong Police Division - Choa Chu Kang NPC,Unlicensed Moneylending,35
+2013,Jurong Police Division - Choa Chu Kang NPC,Harassment,334
+2013,Jurong Police Division - Jurong West NPC,Unlicensed Moneylending,21
+2013,Jurong Police Division - Jurong West NPC,Harassment,309
+2013,Jurong Police Division - Nanyang NPC,Unlicensed Moneylending,327
+2013,Jurong Police Division - Nanyang NPC,Harassment,269
+2013,Jurong Police Division - Woodlands NPC,Unlicensed Moneylending,na
+2013,Jurong Police Division - Woodlands NPC,Harassment,na
+2013,Jurong Police Division - Woodlands East NPC,Unlicensed Moneylending,35
+2013,Jurong Police Division - Woodlands East NPC,Harassment,361
+2013,Jurong Police Division - Woodlands West NPC,Unlicensed Moneylending,19
+2013,Jurong Police Division - Woodlands West NPC,Harassment,225
+2013,Woodlands Police Division - Total,Unlicensed Moneylending,-
+2013,Woodlands Police Division - Total,Harassment,-
+2013,Woodlands Police Division - Woodlands East NPC,Unlicensed Moneylending,-
+2013,Woodlands Police Division - Woodlands East NPC,Harassment,-
+2013,Woodlands Police Division - Woodlands West NPC,Unlicensed Moneylending,-
+2013,Woodlands Police Division - Woodlands West NPC,Harassment,-
+2013,Woodlands Police Division - Yishun North NPC,Unlicensed Moneylending,-
+2013,Woodlands Police Division - Yishun North NPC,Harassment,-
+2013,Woodlands Police Division - Yishun South NPC,Unlicensed Moneylending,-
+2013,Woodlands Police Division - Yishun South NPC,Harassment,-
+2013,Woodlands Police Division - Sembawang NPC,Unlicensed Moneylending,-
+2013,Woodlands Police Division - Sembawang NPC,Harassment,-
+2014,Central Police Division - Total,Unlicensed Moneylending,107
+2014,Central Police Division - Total,Harassment,222
+2014,Central Police Division - Bukit Merah East NPC,Unlicensed Moneylending,78
+2014,Central Police Division - Bukit Merah East NPC,Harassment,134
+2014,Central Police Division - Marina Bay NPC,Unlicensed Moneylending,5
+2014,Central Police Division - Marina Bay NPC,Harassment,8
+2014,Central Police Division - Rochor NPC,Unlicensed Moneylending,24
+2014,Central Police Division - Rochor NPC,Harassment,80
+2014,Clementi Police Division - Total,Unlicensed Moneylending,71
+2014,Clementi Police Division - Total,Harassment,495
+2014,Clementi Police Division - Bukit Merah West NPC,Unlicensed Moneylending,11
+2014,Clementi Police Division - Bukit Merah West NPC,Harassment,102
+2014,Clementi Police Division - Clementi NPC,Unlicensed Moneylending,40
+2014,Clementi Police Division - Clementi NPC,Harassment,115
+2014,Clementi Police Division - Jurong East NPC,Unlicensed Moneylending,11
+2014,Clementi Police Division - Jurong East NPC,Harassment,160
+2014,Clementi Police Division - Queenstown NPC,Unlicensed Moneylending,9
+2014,Clementi Police Division - Queenstown NPC,Harassment,118
+2014,Tanglin Police Division - Total,Unlicensed Moneylending,47
+2014,Tanglin Police Division - Total,Harassment,360
+2014,Tanglin Police Division - Bishan NPC,Unlicensed Moneylending,4
+2014,Tanglin Police Division - Bishan NPC,Harassment,77
+2014,Tanglin Police Division - Bukit Timah NPC,Unlicensed Moneylending,3
+2014,Tanglin Police Division - Bukit Timah NPC,Harassment,29
+2014,Tanglin Police Division - Kampong Java NPC,Unlicensed Moneylending,17
+2014,Tanglin Police Division - Kampong Java NPC,Harassment,55
+2014,Tanglin Police Division - Orchard NPC,Unlicensed Moneylending,7
+2014,Tanglin Police Division - Orchard NPC,Harassment,8
+2014,Tanglin Police Division - Toa Payoh NPC,Unlicensed Moneylending,16
+2014,Tanglin Police Division - Toa Payoh NPC,Harassment,191
+2014,Ang Mo Kio Police Division - Total,Unlicensed Moneylending,117
+2014,Ang Mo Kio Police Division - Total,Harassment,1842
+2014,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Unlicensed Moneylending,39
+2014,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Harassment,230
+2014,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Unlicensed Moneylending,11
+2014,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Harassment,196
+2014,Ang Mo Kio Police Division - Hougang NPC,Unlicensed Moneylending,13
+2014,Ang Mo Kio Police Division - Hougang NPC,Harassment,348
+2014,Ang Mo Kio Police Division - Punggol NPC,Unlicensed Moneylending,6
+2014,Ang Mo Kio Police Division - Punggol NPC,Harassment,112
+2014,Ang Mo Kio Police Division - Sembawang NPC,Unlicensed Moneylending,6
+2014,Ang Mo Kio Police Division - Sembawang NPC,Harassment,66
+2014,Ang Mo Kio Police Division - Sengkang NPC,Unlicensed Moneylending,13
+2014,Ang Mo Kio Police Division - Sengkang NPC,Harassment,271
+2014,Ang Mo Kio Police Division - Serangoon NPC,Unlicensed Moneylending,9
+2014,Ang Mo Kio Police Division - Serangoon NPC,Harassment,144
+2014,Ang Mo Kio Police Division - Yishun North NPC,Unlicensed Moneylending,15
+2014,Ang Mo Kio Police Division - Yishun North NPC,Harassment,323
+2014,Ang Mo Kio Police Division - Yishun South NPC,Unlicensed Moneylending,5
+2014,Ang Mo Kio Police Division - Yishun South NPC,Harassment,152
+2014,Bedok Police Division - Total,Unlicensed Moneylending,96
+2014,Bedok Police Division - Total,Harassment,1128
+2014,Bedok Police Division - Bedok North NPC,Unlicensed Moneylending,56
+2014,Bedok Police Division - Bedok North NPC,Harassment,237
+2014,Bedok Police Division - Bedok South NPC,Unlicensed Moneylending,6
+2014,Bedok Police Division - Bedok South NPC,Harassment,108
+2014,Bedok Police Division - Changi NPC,Unlicensed Moneylending,8
+2014,Bedok Police Division - Changi NPC,Harassment,141
+2014,Bedok Police Division - Geylang NPC,Unlicensed Moneylending,13
+2014,Bedok Police Division - Geylang NPC,Harassment,151
+2014,Bedok Police Division - Marine Parade NPC,Unlicensed Moneylending,3
+2014,Bedok Police Division - Marine Parade NPC,Harassment,53
+2014,Bedok Police Division - Pasir Ris NPC,Unlicensed Moneylending,4
+2014,Bedok Police Division - Pasir Ris NPC,Harassment,151
+2014,Bedok Police Division - Tampines NPC,Unlicensed Moneylending,6
+2014,Bedok Police Division - Tampines NPC,Harassment,287
+2014,Jurong Police Division - Total,Unlicensed Moneylending,347
+2014,Jurong Police Division - Total,Harassment,1715
+2014,Jurong Police Division - Bukit Batok NPC,Unlicensed Moneylending,76
+2014,Jurong Police Division - Bukit Batok NPC,Harassment,217
+2014,Jurong Police Division - Bukit Panjang NPC,Unlicensed Moneylending,72
+2014,Jurong Police Division - Bukit Panjang NPC,Harassment,192
+2014,Jurong Police Division - Choa Chu Kang NPC,Unlicensed Moneylending,25
+2014,Jurong Police Division - Choa Chu Kang NPC,Harassment,276
+2014,Jurong Police Division - Jurong West NPC,Unlicensed Moneylending,23
+2014,Jurong Police Division - Jurong West NPC,Harassment,286
+2014,Jurong Police Division - Nanyang NPC,Unlicensed Moneylending,103
+2014,Jurong Police Division - Nanyang NPC,Harassment,247
+2014,Jurong Police Division - Woodlands NPC,Unlicensed Moneylending,na
+2014,Jurong Police Division - Woodlands NPC,Harassment,na
+2014,Jurong Police Division - Woodlands East NPC,Unlicensed Moneylending,164
+2014,Jurong Police Division - Woodlands East NPC,Harassment,29
+2014,Jurong Police Division - Woodlands West NPC,Unlicensed Moneylending,352
+2014,Jurong Police Division - Woodlands West NPC,Harassment,145
+2014,Woodlands Police Division - Total,Unlicensed Moneylending,-
+2014,Woodlands Police Division - Total,Harassment,-
+2014,Woodlands Police Division - Woodlands East NPC,Unlicensed Moneylending,-
+2014,Woodlands Police Division - Woodlands East NPC,Harassment,-
+2014,Woodlands Police Division - Woodlands West NPC,Unlicensed Moneylending,-
+2014,Woodlands Police Division - Woodlands West NPC,Harassment,-
+2014,Woodlands Police Division - Yishun North NPC,Unlicensed Moneylending,-
+2014,Woodlands Police Division - Yishun North NPC,Harassment,-
+2014,Woodlands Police Division - Yishun South NPC,Unlicensed Moneylending,-
+2014,Woodlands Police Division - Yishun South NPC,Harassment,-
+2014,Woodlands Police Division - Sembawang NPC,Unlicensed Moneylending,-
+2014,Woodlands Police Division - Sembawang NPC,Harassment,-
+2015,Central Police Division - Total,Unlicensed Moneylending,60
+2015,Central Police Division - Total,Harassment,148
+2015,Central Police Division - Bukit Merah East NPC,Unlicensed Moneylending,36
+2015,Central Police Division - Bukit Merah East NPC,Harassment,67
+2015,Central Police Division - Marina Bay NPC,Unlicensed Moneylending,4
+2015,Central Police Division - Marina Bay NPC,Harassment,14
+2015,Central Police Division - Rochor NPC,Unlicensed Moneylending,20
+2015,Central Police Division - Rochor NPC,Harassment,67
+2015,Clementi Police Division - Total,Unlicensed Moneylending,47
+2015,Clementi Police Division - Total,Harassment,353
+2015,Clementi Police Division - Bukit Merah West NPC,Unlicensed Moneylending,5
+2015,Clementi Police Division - Bukit Merah West NPC,Harassment,72
+2015,Clementi Police Division - Clementi NPC,Unlicensed Moneylending,27
+2015,Clementi Police Division - Clementi NPC,Harassment,84
+2015,Clementi Police Division - Jurong East NPC,Unlicensed Moneylending,10
+2015,Clementi Police Division - Jurong East NPC,Harassment,127
+2015,Clementi Police Division - Queenstown NPC,Unlicensed Moneylending,5
+2015,Clementi Police Division - Queenstown NPC,Harassment,70
+2015,Tanglin Police Division - Total,Unlicensed Moneylending,33
+2015,Tanglin Police Division - Total,Harassment,240
+2015,Tanglin Police Division - Bishan NPC,Unlicensed Moneylending,4
+2015,Tanglin Police Division - Bishan NPC,Harassment,56
+2015,Tanglin Police Division - Bukit Timah NPC,Unlicensed Moneylending,2
+2015,Tanglin Police Division - Bukit Timah NPC,Harassment,31
+2015,Tanglin Police Division - Kampong Java NPC,Unlicensed Moneylending,10
+2015,Tanglin Police Division - Kampong Java NPC,Harassment,41
+2015,Tanglin Police Division - Orchard NPC,Unlicensed Moneylending,4
+2015,Tanglin Police Division - Orchard NPC,Harassment,10
+2015,Tanglin Police Division - Toa Payoh NPC,Unlicensed Moneylending,13
+2015,Tanglin Police Division - Toa Payoh NPC,Harassment,102
+2015,Ang Mo Kio Police Division - Total,Unlicensed Moneylending,130
+2015,Ang Mo Kio Police Division - Total,Harassment,1201
+2015,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Unlicensed Moneylending,51
+2015,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Harassment,126
+2015,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Unlicensed Moneylending,10
+2015,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Harassment,90
+2015,Ang Mo Kio Police Division - Hougang NPC,Unlicensed Moneylending,9
+2015,Ang Mo Kio Police Division - Hougang NPC,Harassment,216
+2015,Ang Mo Kio Police Division - Punggol NPC,Unlicensed Moneylending,6
+2015,Ang Mo Kio Police Division - Punggol NPC,Harassment,111
+2015,Ang Mo Kio Police Division - Sembawang NPC,Unlicensed Moneylending,12
+2015,Ang Mo Kio Police Division - Sembawang NPC,Harassment,57
+2015,Ang Mo Kio Police Division - Sengkang NPC,Unlicensed Moneylending,12
+2015,Ang Mo Kio Police Division - Sengkang NPC,Harassment,201
+2015,Ang Mo Kio Police Division - Serangoon NPC,Unlicensed Moneylending,5
+2015,Ang Mo Kio Police Division - Serangoon NPC,Harassment,101
+2015,Ang Mo Kio Police Division - Yishun North NPC,Unlicensed Moneylending,20
+2015,Ang Mo Kio Police Division - Yishun North NPC,Harassment,216
+2015,Ang Mo Kio Police Division - Yishun South NPC,Unlicensed Moneylending,5
+2015,Ang Mo Kio Police Division - Yishun South NPC,Harassment,83
+2015,Bedok Police Division - Total,Unlicensed Moneylending,85
+2015,Bedok Police Division - Total,Harassment,852
+2015,Bedok Police Division - Bedok North NPC,Unlicensed Moneylending,31
+2015,Bedok Police Division - Bedok North NPC,Harassment,219
+2015,Bedok Police Division - Bedok South NPC,Unlicensed Moneylending,5
+2015,Bedok Police Division - Bedok South NPC,Harassment,87
+2015,Bedok Police Division - Changi NPC,Unlicensed Moneylending,9
+2015,Bedok Police Division - Changi NPC,Harassment,79
+2015,Bedok Police Division - Geylang NPC,Unlicensed Moneylending,15
+2015,Bedok Police Division - Geylang NPC,Harassment,116
+2015,Bedok Police Division - Marine Parade NPC,Unlicensed Moneylending,6
+2015,Bedok Police Division - Marine Parade NPC,Harassment,46
+2015,Bedok Police Division - Pasir Ris NPC,Unlicensed Moneylending,5
+2015,Bedok Police Division - Pasir Ris NPC,Harassment,101
+2015,Bedok Police Division - Tampines NPC,Unlicensed Moneylending,14
+2015,Bedok Police Division - Tampines NPC,Harassment,204
+2015,Jurong Police Division - Total,Unlicensed Moneylending,273
+2015,Jurong Police Division - Total,Harassment,1447
+2015,Jurong Police Division - Bukit Batok NPC,Unlicensed Moneylending,76
+2015,Jurong Police Division - Bukit Batok NPC,Harassment,195
+2015,Jurong Police Division - Bukit Panjang NPC,Unlicensed Moneylending,47
+2015,Jurong Police Division - Bukit Panjang NPC,Harassment,185
+2015,Jurong Police Division - Choa Chu Kang NPC,Unlicensed Moneylending,20
+2015,Jurong Police Division - Choa Chu Kang NPC,Harassment,227
+2015,Jurong Police Division - Jurong West NPC,Unlicensed Moneylending,22
+2015,Jurong Police Division - Jurong West NPC,Harassment,260
+2015,Jurong Police Division - Nanyang NPC,Unlicensed Moneylending,74
+2015,Jurong Police Division - Nanyang NPC,Harassment,200
+2015,Jurong Police Division - Woodlands NPC,Unlicensed Moneylending,na
+2015,Jurong Police Division - Woodlands NPC,Harassment,na
+2015,Jurong Police Division - Woodlands East NPC,Unlicensed Moneylending,23
+2015,Jurong Police Division - Woodlands East NPC,Harassment,228
+2015,Jurong Police Division - Woodlands West NPC,Unlicensed Moneylending,11
+2015,Jurong Police Division - Woodlands West NPC,Harassment,152
+2015,Woodlands Police Division - Total,Unlicensed Moneylending,-
+2015,Woodlands Police Division - Total,Harassment,-
+2015,Woodlands Police Division - Woodlands East NPC,Unlicensed Moneylending,-
+2015,Woodlands Police Division - Woodlands East NPC,Harassment,-
+2015,Woodlands Police Division - Woodlands West NPC,Unlicensed Moneylending,-
+2015,Woodlands Police Division - Woodlands West NPC,Harassment,-
+2015,Woodlands Police Division - Yishun North NPC,Unlicensed Moneylending,-
+2015,Woodlands Police Division - Yishun North NPC,Harassment,-
+2015,Woodlands Police Division - Yishun South NPC,Unlicensed Moneylending,-
+2015,Woodlands Police Division - Yishun South NPC,Harassment,-
+2015,Woodlands Police Division - Sembawang NPC,Unlicensed Moneylending,-
+2015,Woodlands Police Division - Sembawang NPC,Harassment,-
+2016,Central Police Division - Total,Unlicensed Moneylending,59
+2016,Central Police Division - Total,Harassment,102
+2016,Central Police Division - Bukit Merah East NPC,Unlicensed Moneylending,35
+2016,Central Police Division - Bukit Merah East NPC,Harassment,50
+2016,Central Police Division - Marina Bay NPC,Unlicensed Moneylending,6
+2016,Central Police Division - Marina Bay NPC,Harassment,9
+2016,Central Police Division - Rochor NPC,Unlicensed Moneylending,18
+2016,Central Police Division - Rochor NPC,Harassment,43
+2016,Clementi Police Division - Total,Unlicensed Moneylending,61
+2016,Clementi Police Division - Total,Harassment,259
+2016,Clementi Police Division - Bukit Merah West NPC,Unlicensed Moneylending,7
+2016,Clementi Police Division - Bukit Merah West NPC,Harassment,54
+2016,Clementi Police Division - Clementi NPC,Unlicensed Moneylending,43
+2016,Clementi Police Division - Clementi NPC,Harassment,64
+2016,Clementi Police Division - Jurong East NPC,Unlicensed Moneylending,5
+2016,Clementi Police Division - Jurong East NPC,Harassment,87
+2016,Clementi Police Division - Queenstown NPC,Unlicensed Moneylending,6
+2016,Clementi Police Division - Queenstown NPC,Harassment,54
+2016,Tanglin Police Division - Total,Unlicensed Moneylending,27
+2016,Tanglin Police Division - Total,Harassment,205
+2016,Tanglin Police Division - Bishan NPC,Unlicensed Moneylending,0
+2016,Tanglin Police Division - Bishan NPC,Harassment,37
+2016,Tanglin Police Division - Bukit Timah NPC,Unlicensed Moneylending,1
+2016,Tanglin Police Division - Bukit Timah NPC,Harassment,23
+2016,Tanglin Police Division - Kampong Java NPC,Unlicensed Moneylending,16
+2016,Tanglin Police Division - Kampong Java NPC,Harassment,28
+2016,Tanglin Police Division - Orchard NPC,Unlicensed Moneylending,3
+2016,Tanglin Police Division - Orchard NPC,Harassment,12
+2016,Tanglin Police Division - Toa Payoh NPC,Unlicensed Moneylending,7
+2016,Tanglin Police Division - Toa Payoh NPC,Harassment,105
+2016,Ang Mo Kio Police Division - Total,Unlicensed Moneylending,99
+2016,Ang Mo Kio Police Division - Total,Harassment,1066
+2016,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Unlicensed Moneylending,40
+2016,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Harassment,101
+2016,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Unlicensed Moneylending,2
+2016,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Harassment,94
+2016,Ang Mo Kio Police Division - Hougang NPC,Unlicensed Moneylending,11
+2016,Ang Mo Kio Police Division - Hougang NPC,Harassment,160
+2016,Ang Mo Kio Police Division - Punggol NPC,Unlicensed Moneylending,7
+2016,Ang Mo Kio Police Division - Punggol NPC,Harassment,91
+2016,Ang Mo Kio Police Division - Sembawang NPC,Unlicensed Moneylending,5
+2016,Ang Mo Kio Police Division - Sembawang NPC,Harassment,56
+2016,Ang Mo Kio Police Division - Sengkang NPC,Unlicensed Moneylending,15
+2016,Ang Mo Kio Police Division - Sengkang NPC,Harassment,170
+2016,Ang Mo Kio Police Division - Serangoon NPC,Unlicensed Moneylending,5
+2016,Ang Mo Kio Police Division - Serangoon NPC,Harassment,59
+2016,Ang Mo Kio Police Division - Yishun North NPC,Unlicensed Moneylending,7
+2016,Ang Mo Kio Police Division - Yishun North NPC,Harassment,232
+2016,Ang Mo Kio Police Division - Yishun South NPC,Unlicensed Moneylending,7
+2016,Ang Mo Kio Police Division - Yishun South NPC,Harassment,103
+2016,Bedok Police Division - Total,Unlicensed Moneylending,109
+2016,Bedok Police Division - Total,Harassment,677
+2016,Bedok Police Division - Bedok North NPC,Unlicensed Moneylending,23
+2016,Bedok Police Division - Bedok North NPC,Harassment,147
+2016,Bedok Police Division - Bedok South NPC,Unlicensed Moneylending,15
+2016,Bedok Police Division - Bedok South NPC,Harassment,61
+2016,Bedok Police Division - Changi NPC,Unlicensed Moneylending,10
+2016,Bedok Police Division - Changi NPC,Harassment,74
+2016,Bedok Police Division - Geylang NPC,Unlicensed Moneylending,19
+2016,Bedok Police Division - Geylang NPC,Harassment,90
+2016,Bedok Police Division - Marine Parade NPC,Unlicensed Moneylending,5
+2016,Bedok Police Division - Marine Parade NPC,Harassment,31
+2016,Bedok Police Division - Pasir Ris NPC,Unlicensed Moneylending,14
+2016,Bedok Police Division - Pasir Ris NPC,Harassment,88
+2016,Bedok Police Division - Tampines NPC,Unlicensed Moneylending,23
+2016,Bedok Police Division - Tampines NPC,Harassment,186
+2016,Jurong Police Division - Total,Unlicensed Moneylending,196
+2016,Jurong Police Division - Total,Harassment,1078
+2016,Jurong Police Division - Bukit Batok NPC,Unlicensed Moneylending,39
+2016,Jurong Police Division - Bukit Batok NPC,Harassment,117
+2016,Jurong Police Division - Bukit Panjang NPC,Unlicensed Moneylending,19
+2016,Jurong Police Division - Bukit Panjang NPC,Harassment,143
+2016,Jurong Police Division - Choa Chu Kang NPC,Unlicensed Moneylending,15
+2016,Jurong Police Division - Choa Chu Kang NPC,Harassment,174
+2016,Jurong Police Division - Jurong West NPC,Unlicensed Moneylending,11
+2016,Jurong Police Division - Jurong West NPC,Harassment,196
+2016,Jurong Police Division - Nanyang NPC,Unlicensed Moneylending,76
+2016,Jurong Police Division - Nanyang NPC,Harassment,137
+2016,Jurong Police Division - Woodlands NPC,Unlicensed Moneylending,na
+2016,Jurong Police Division - Woodlands NPC,Harassment,na
+2016,Jurong Police Division - Woodlands East NPC,Unlicensed Moneylending,23
+2016,Jurong Police Division - Woodlands East NPC,Harassment,185
+2016,Jurong Police Division - Woodlands West NPC,Unlicensed Moneylending,13
+2016,Jurong Police Division - Woodlands West NPC,Harassment,126
+2016,Woodlands Police Division - Total,Unlicensed Moneylending,-
+2016,Woodlands Police Division - Total,Harassment,-
+2016,Woodlands Police Division - Woodlands East NPC,Unlicensed Moneylending,-
+2016,Woodlands Police Division - Woodlands East NPC,Harassment,-
+2016,Woodlands Police Division - Woodlands West NPC,Unlicensed Moneylending,-
+2016,Woodlands Police Division - Woodlands West NPC,Harassment,-
+2016,Woodlands Police Division - Yishun North NPC,Unlicensed Moneylending,-
+2016,Woodlands Police Division - Yishun North NPC,Harassment,-
+2016,Woodlands Police Division - Yishun South NPC,Unlicensed Moneylending,-
+2016,Woodlands Police Division - Yishun South NPC,Harassment,-
+2016,Woodlands Police Division - Sembawang NPC,Unlicensed Moneylending,-
+2016,Woodlands Police Division - Sembawang NPC,Harassment,-
+2017,Central Police Division - Total,Unlicensed Moneylending,50
+2017,Central Police Division - Total,Harassment,135
+2017,Central Police Division - Bukit Merah East NPC,Unlicensed Moneylending,36
+2017,Central Police Division - Bukit Merah East NPC,Harassment,67
+2017,Central Police Division - Marina Bay NPC,Unlicensed Moneylending,3
+2017,Central Police Division - Marina Bay NPC,Harassment,17
+2017,Central Police Division - Rochor NPC,Unlicensed Moneylending,11
+2017,Central Police Division - Rochor NPC,Harassment,51
+2017,Clementi Police Division - Total,Unlicensed Moneylending,55
+2017,Clementi Police Division - Total,Harassment,336
+2017,Clementi Police Division - Bukit Merah West NPC,Unlicensed Moneylending,7
+2017,Clementi Police Division - Bukit Merah West NPC,Harassment,79
+2017,Clementi Police Division - Clementi NPC,Unlicensed Moneylending,32
+2017,Clementi Police Division - Clementi NPC,Harassment,89
+2017,Clementi Police Division - Jurong East NPC,Unlicensed Moneylending,10
+2017,Clementi Police Division - Jurong East NPC,Harassment,90
+2017,Clementi Police Division - Queenstown NPC,Unlicensed Moneylending,6
+2017,Clementi Police Division - Queenstown NPC,Harassment,78
+2017,Tanglin Police Division - Total,Unlicensed Moneylending,46
+2017,Tanglin Police Division - Total,Harassment,327
+2017,Tanglin Police Division - Bishan NPC,Unlicensed Moneylending,11
+2017,Tanglin Police Division - Bishan NPC,Harassment,78
+2017,Tanglin Police Division - Bukit Timah NPC,Unlicensed Moneylending,6
+2017,Tanglin Police Division - Bukit Timah NPC,Harassment,38
+2017,Tanglin Police Division - Kampong Java NPC,Unlicensed Moneylending,16
+2017,Tanglin Police Division - Kampong Java NPC,Harassment,46
+2017,Tanglin Police Division - Orchard NPC,Unlicensed Moneylending,3
+2017,Tanglin Police Division - Orchard NPC,Harassment,30
+2017,Tanglin Police Division - Toa Payoh NPC,Unlicensed Moneylending,10
+2017,Tanglin Police Division - Toa Payoh NPC,Harassment,135
+2017,Ang Mo Kio Police Division - Total,Unlicensed Moneylending,124
+2017,Ang Mo Kio Police Division - Total,Harassment,1183
+2017,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Unlicensed Moneylending,39
+2017,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Harassment,124
+2017,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Unlicensed Moneylending,9
+2017,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Harassment,96
+2017,Ang Mo Kio Police Division - Hougang NPC,Unlicensed Moneylending,23
+2017,Ang Mo Kio Police Division - Hougang NPC,Harassment,161
+2017,Ang Mo Kio Police Division - Punggol NPC,Unlicensed Moneylending,8
+2017,Ang Mo Kio Police Division - Punggol NPC,Harassment,151
+2017,Ang Mo Kio Police Division - Sembawang NPC,Unlicensed Moneylending,9
+2017,Ang Mo Kio Police Division - Sembawang NPC,Harassment,74
+2017,Ang Mo Kio Police Division - Sengkang NPC,Unlicensed Moneylending,14
+2017,Ang Mo Kio Police Division - Sengkang NPC,Harassment,191
+2017,Ang Mo Kio Police Division - Serangoon NPC,Unlicensed Moneylending,1
+2017,Ang Mo Kio Police Division - Serangoon NPC,Harassment,67
+2017,Ang Mo Kio Police Division - Yishun North NPC,Unlicensed Moneylending,14
+2017,Ang Mo Kio Police Division - Yishun North NPC,Harassment,223
+2017,Ang Mo Kio Police Division - Yishun South NPC,Unlicensed Moneylending,7
+2017,Ang Mo Kio Police Division - Yishun South NPC,Harassment,96
+2017,Bedok Police Division - Total,Unlicensed Moneylending,194
+2017,Bedok Police Division - Total,Harassment,750
+2017,Bedok Police Division - Bedok North NPC,Unlicensed Moneylending,63
+2017,Bedok Police Division - Bedok North NPC,Harassment,133
+2017,Bedok Police Division - Bedok South NPC,Unlicensed Moneylending,12
+2017,Bedok Police Division - Bedok South NPC,Harassment,86
+2017,Bedok Police Division - Changi NPC,Unlicensed Moneylending,18
+2017,Bedok Police Division - Changi NPC,Harassment,120
+2017,Bedok Police Division - Geylang NPC,Unlicensed Moneylending,26
+2017,Bedok Police Division - Geylang NPC,Harassment,102
+2017,Bedok Police Division - Marine Parade NPC,Unlicensed Moneylending,16
+2017,Bedok Police Division - Marine Parade NPC,Harassment,59
+2017,Bedok Police Division - Pasir Ris NPC,Unlicensed Moneylending,21
+2017,Bedok Police Division - Pasir Ris NPC,Harassment,92
+2017,Bedok Police Division - Tampines NPC,Unlicensed Moneylending,38
+2017,Bedok Police Division - Tampines NPC,Harassment,158
+2017,Jurong Police Division - Total,Unlicensed Moneylending,143
+2017,Jurong Police Division - Total,Harassment,1083
+2017,Jurong Police Division - Bukit Batok NPC,Unlicensed Moneylending,29
+2017,Jurong Police Division - Bukit Batok NPC,Harassment,134
+2017,Jurong Police Division - Bukit Panjang NPC,Unlicensed Moneylending,17
+2017,Jurong Police Division - Bukit Panjang NPC,Harassment,121
+2017,Jurong Police Division - Choa Chu Kang NPC,Unlicensed Moneylending,19
+2017,Jurong Police Division - Choa Chu Kang NPC,Harassment,176
+2017,Jurong Police Division - Jurong West NPC,Unlicensed Moneylending,22
+2017,Jurong Police Division - Jurong West NPC,Harassment,177
+2017,Jurong Police Division - Nanyang NPC,Unlicensed Moneylending,28
+2017,Jurong Police Division - Nanyang NPC,Harassment,165
+2017,Jurong Police Division - Woodlands NPC,Unlicensed Moneylending,na
+2017,Jurong Police Division - Woodlands NPC,Harassment,na
+2017,Jurong Police Division - Woodlands East NPC,Unlicensed Moneylending,21
+2017,Jurong Police Division - Woodlands East NPC,Harassment,188
+2017,Jurong Police Division - Woodlands West NPC,Unlicensed Moneylending,7
+2017,Jurong Police Division - Woodlands West NPC,Harassment,122
+2017,Woodlands Police Division - Total,Unlicensed Moneylending,-
+2017,Woodlands Police Division - Total,Harassment,-
+2017,Woodlands Police Division - Woodlands East NPC,Unlicensed Moneylending,-
+2017,Woodlands Police Division - Woodlands East NPC,Harassment,-
+2017,Woodlands Police Division - Woodlands West NPC,Unlicensed Moneylending,-
+2017,Woodlands Police Division - Woodlands West NPC,Harassment,-
+2017,Woodlands Police Division - Yishun North NPC,Unlicensed Moneylending,-
+2017,Woodlands Police Division - Yishun North NPC,Harassment,-
+2017,Woodlands Police Division - Yishun South NPC,Unlicensed Moneylending,-
+2017,Woodlands Police Division - Yishun South NPC,Harassment,-
+2017,Woodlands Police Division - Sembawang NPC,Unlicensed Moneylending,-
+2017,Woodlands Police Division - Sembawang NPC,Harassment,-
+2018,Central Police Division - Total,Unlicensed Moneylending,62
+2018,Central Police Division - Total,Harassment,168
+2018,Central Police Division - Bukit Merah East NPC,Unlicensed Moneylending,50
+2018,Central Police Division - Bukit Merah East NPC,Harassment,75
+2018,Central Police Division - Marina Bay NPC,Unlicensed Moneylending,0
+2018,Central Police Division - Marina Bay NPC,Harassment,26
+2018,Central Police Division - Rochor NPC,Unlicensed Moneylending,12
+2018,Central Police Division - Rochor NPC,Harassment,67
+2018,Clementi Police Division - Total,Unlicensed Moneylending,42
+2018,Clementi Police Division - Total,Harassment,408
+2018,Clementi Police Division - Bukit Merah West NPC,Unlicensed Moneylending,7
+2018,Clementi Police Division - Bukit Merah West NPC,Harassment,83
+2018,Clementi Police Division - Clementi NPC,Unlicensed Moneylending,22
+2018,Clementi Police Division - Clementi NPC,Harassment,110
+2018,Clementi Police Division - Jurong East NPC,Unlicensed Moneylending,5
+2018,Clementi Police Division - Jurong East NPC,Harassment,103
+2018,Clementi Police Division - Queenstown NPC,Unlicensed Moneylending,8
+2018,Clementi Police Division - Queenstown NPC,Harassment,112
+2018,Tanglin Police Division - Total,Unlicensed Moneylending,29
+2018,Tanglin Police Division - Total,Harassment,517
+2018,Tanglin Police Division - Bishan NPC,Unlicensed Moneylending,3
+2018,Tanglin Police Division - Bishan NPC,Harassment,93
+2018,Tanglin Police Division - Bukit Timah NPC,Unlicensed Moneylending,1
+2018,Tanglin Police Division - Bukit Timah NPC,Harassment,97
+2018,Tanglin Police Division - Kampong Java NPC,Unlicensed Moneylending,14
+2018,Tanglin Police Division - Kampong Java NPC,Harassment,87
+2018,Tanglin Police Division - Orchard NPC,Unlicensed Moneylending,1
+2018,Tanglin Police Division - Orchard NPC,Harassment,56
+2018,Tanglin Police Division - Toa Payoh NPC,Unlicensed Moneylending,10
+2018,Tanglin Police Division - Toa Payoh NPC,Harassment,184
+2018,Ang Mo Kio Police Division - Total,Unlicensed Moneylending,127
+2018,Ang Mo Kio Police Division - Total,Harassment,1248
+2018,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Unlicensed Moneylending,37
+2018,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Harassment,129
+2018,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Unlicensed Moneylending,6
+2018,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Harassment,84
+2018,Ang Mo Kio Police Division - Hougang NPC,Unlicensed Moneylending,20
+2018,Ang Mo Kio Police Division - Hougang NPC,Harassment,178
+2018,Ang Mo Kio Police Division - Punggol NPC,Unlicensed Moneylending,8
+2018,Ang Mo Kio Police Division - Punggol NPC,Harassment,169
+2018,Ang Mo Kio Police Division - Sembawang NPC,Unlicensed Moneylending,3
+2018,Ang Mo Kio Police Division - Sembawang NPC,Harassment,79
+2018,Ang Mo Kio Police Division - Sengkang NPC,Unlicensed Moneylending,20
+2018,Ang Mo Kio Police Division - Sengkang NPC,Harassment,229
+2018,Ang Mo Kio Police Division - Serangoon NPC,Unlicensed Moneylending,4
+2018,Ang Mo Kio Police Division - Serangoon NPC,Harassment,91
+2018,Ang Mo Kio Police Division - Yishun North NPC,Unlicensed Moneylending,18
+2018,Ang Mo Kio Police Division - Yishun North NPC,Harassment,208
+2018,Ang Mo Kio Police Division - Yishun South NPC,Unlicensed Moneylending,11
+2018,Ang Mo Kio Police Division - Yishun South NPC,Harassment,81
+2018,Bedok Police Division - Total,Unlicensed Moneylending,157
+2018,Bedok Police Division - Total,Harassment,783
+2018,Bedok Police Division - Bedok North NPC,Unlicensed Moneylending,41
+2018,Bedok Police Division - Bedok North NPC,Harassment,119
+2018,Bedok Police Division - Bedok South NPC,Unlicensed Moneylending,12
+2018,Bedok Police Division - Bedok South NPC,Harassment,148
+2018,Bedok Police Division - Changi NPC,Unlicensed Moneylending,17
+2018,Bedok Police Division - Changi NPC,Harassment,117
+2018,Bedok Police Division - Geylang NPC,Unlicensed Moneylending,23
+2018,Bedok Police Division - Geylang NPC,Harassment,127
+2018,Bedok Police Division - Marine Parade NPC,Unlicensed Moneylending,7
+2018,Bedok Police Division - Marine Parade NPC,Harassment,64
+2018,Bedok Police Division - Pasir Ris NPC,Unlicensed Moneylending,21
+2018,Bedok Police Division - Pasir Ris NPC,Harassment,122
+2018,Bedok Police Division - Tampines NPC,Unlicensed Moneylending,36
+2018,Bedok Police Division - Tampines NPC,Harassment,86
+2018,Jurong Police Division - Total,Unlicensed Moneylending,144
+2018,Jurong Police Division - Total,Harassment,1359
+2018,Jurong Police Division - Bukit Batok NPC,Unlicensed Moneylending,14
+2018,Jurong Police Division - Bukit Batok NPC,Harassment,166
+2018,Jurong Police Division - Bukit Panjang NPC,Unlicensed Moneylending,23
+2018,Jurong Police Division - Bukit Panjang NPC,Harassment,197
+2018,Jurong Police Division - Choa Chu Kang NPC,Unlicensed Moneylending,16
+2018,Jurong Police Division - Choa Chu Kang NPC,Harassment,208
+2018,Jurong Police Division - Jurong West NPC,Unlicensed Moneylending,18
+2018,Jurong Police Division - Jurong West NPC,Harassment,201
+2018,Jurong Police Division - Nanyang NPC,Unlicensed Moneylending,42
+2018,Jurong Police Division - Nanyang NPC,Harassment,236
+2018,Jurong Police Division - Woodlands NPC,Unlicensed Moneylending,na
+2018,Jurong Police Division - Woodlands NPC,Harassment,na
+2018,Jurong Police Division - Woodlands East NPC,Unlicensed Moneylending,20
+2018,Jurong Police Division - Woodlands East NPC,Harassment,224
+2018,Jurong Police Division - Woodlands West NPC,Unlicensed Moneylending,11
+2018,Jurong Police Division - Woodlands West NPC,Harassment,127
+2018,Woodlands Police Division - Total,Unlicensed Moneylending,2
+2018,Woodlands Police Division - Total,Harassment,124
+2018,Woodlands Police Division - Woodlands East NPC,Unlicensed Moneylending,1
+2018,Woodlands Police Division - Woodlands East NPC,Harassment,32
+2018,Woodlands Police Division - Woodlands West NPC,Unlicensed Moneylending,0
+2018,Woodlands Police Division - Woodlands West NPC,Harassment,17
+2018,Woodlands Police Division - Yishun North NPC,Unlicensed Moneylending,1
+2018,Woodlands Police Division - Yishun North NPC,Harassment,36
+2018,Woodlands Police Division - Yishun South NPC,Unlicensed Moneylending,0
+2018,Woodlands Police Division - Yishun South NPC,Harassment,19
+2018,Woodlands Police Division - Sembawang NPC,Unlicensed Moneylending,0
+2018,Woodlands Police Division - Sembawang NPC,Harassment,20
+2019,Central Police Division - Total,Unlicensed Moneylending,102
+2019,Central Police Division - Total,Harassment,209
+2019,Central Police Division - Bukit Merah East NPC,Unlicensed Moneylending,76
+2019,Central Police Division - Bukit Merah East NPC,Harassment,92
+2019,Central Police Division - Marina Bay NPC,Unlicensed Moneylending,6
+2019,Central Police Division - Marina Bay NPC,Harassment,24
+2019,Central Police Division - Rochor NPC,Unlicensed Moneylending,20
+2019,Central Police Division - Rochor NPC,Harassment,93
+2019,Clementi Police Division - Total,Unlicensed Moneylending,47
+2019,Clementi Police Division - Total,Harassment,544
+2019,Clementi Police Division - Bukit Merah West NPC,Unlicensed Moneylending,9
+2019,Clementi Police Division - Bukit Merah West NPC,Harassment,100
+2019,Clementi Police Division - Clementi NPC,Unlicensed Moneylending,25
+2019,Clementi Police Division - Clementi NPC,Harassment,167
+2019,Clementi Police Division - Jurong East NPC,Unlicensed Moneylending,7
+2019,Clementi Police Division - Jurong East NPC,Harassment,155
+2019,Clementi Police Division - Queenstown NPC,Unlicensed Moneylending,6
+2019,Clementi Police Division - Queenstown NPC,Harassment,122
+2019,Tanglin Police Division - Total,Unlicensed Moneylending,37
+2019,Tanglin Police Division - Total,Harassment,524
+2019,Tanglin Police Division - Bishan NPC,Unlicensed Moneylending,8
+2019,Tanglin Police Division - Bishan NPC,Harassment,99
+2019,Tanglin Police Division - Bukit Timah NPC,Unlicensed Moneylending,5
+2019,Tanglin Police Division - Bukit Timah NPC,Harassment,82
+2019,Tanglin Police Division - Kampong Java NPC,Unlicensed Moneylending,13
+2019,Tanglin Police Division - Kampong Java NPC,Harassment,102
+2019,Tanglin Police Division - Orchard NPC,Unlicensed Moneylending,4
+2019,Tanglin Police Division - Orchard NPC,Harassment,46
+2019,Tanglin Police Division - Toa Payoh NPC,Unlicensed Moneylending,7
+2019,Tanglin Police Division - Toa Payoh NPC,Harassment,195
+2019,Ang Mo Kio Police Division - Total,Unlicensed Moneylending,118
+2019,Ang Mo Kio Police Division - Total,Harassment,944
+2019,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Unlicensed Moneylending,47
+2019,Ang Mo Kio Police Division - Ang Mo Kio North NPC,Harassment,129
+2019,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Unlicensed Moneylending,5
+2019,Ang Mo Kio Police Division - Ang Mo Kio South NPC,Harassment,112
+2019,Ang Mo Kio Police Division - Hougang NPC,Unlicensed Moneylending,18
+2019,Ang Mo Kio Police Division - Hougang NPC,Harassment,201
+2019,Ang Mo Kio Police Division - Punggol NPC,Unlicensed Moneylending,24
+2019,Ang Mo Kio Police Division - Punggol NPC,Harassment,201
+2019,Ang Mo Kio Police Division - Sembawang NPC,Unlicensed Moneylending,na
+2019,Ang Mo Kio Police Division - Sembawang NPC,Harassment,na
+2019,Ang Mo Kio Police Division - Sengkang NPC,Unlicensed Moneylending,20
+2019,Ang Mo Kio Police Division - Sengkang NPC,Harassment,204
+2019,Ang Mo Kio Police Division - Serangoon NPC,Unlicensed Moneylending,4
+2019,Ang Mo Kio Police Division - Serangoon NPC,Harassment,97
+2019,Ang Mo Kio Police Division - Yishun North NPC,Unlicensed Moneylending,na
+2019,Ang Mo Kio Police Division - Yishun North NPC,Harassment,na
+2019,Ang Mo Kio Police Division - Yishun South NPC,Unlicensed Moneylending,na
+2019,Ang Mo Kio Police Division - Yishun South NPC,Harassment,na
+2019,Bedok Police Division - Total,Unlicensed Moneylending,134
+2019,Bedok Police Division - Total,Harassment,920
+2019,Bedok Police Division - Bedok North NPC,Unlicensed Moneylending,44
+2019,Bedok Police Division - Bedok North NPC,Harassment,171
+2019,Bedok Police Division - Bedok South NPC,Unlicensed Moneylending,12
+2019,Bedok Police Division - Bedok South NPC,Harassment,152
+2019,Bedok Police Division - Changi NPC,Unlicensed Moneylending,8
+2019,Bedok Police Division - Changi NPC,Harassment,105
+2019,Bedok Police Division - Geylang NPC,Unlicensed Moneylending,16
+2019,Bedok Police Division - Geylang NPC,Harassment,165
+2019,Bedok Police Division - Marine Parade NPC,Unlicensed Moneylending,15
+2019,Bedok Police Division - Marine Parade NPC,Harassment,59
+2019,Bedok Police Division - Pasir Ris NPC,Unlicensed Moneylending,21
+2019,Bedok Police Division - Pasir Ris NPC,Harassment,176
+2019,Bedok Police Division - Tampines NPC,Unlicensed Moneylending,18
+2019,Bedok Police Division - Tampines NPC,Harassment,92
+2019,Jurong Police Division - Total,Unlicensed Moneylending,201
+2019,Jurong Police Division - Total,Harassment,1041
+2019,Jurong Police Division - Bukit Batok NPC,Unlicensed Moneylending,41
+2019,Jurong Police Division - Bukit Batok NPC,Harassment,185
+2019,Jurong Police Division - Bukit Panjang NPC,Unlicensed Moneylending,21
+2019,Jurong Police Division - Bukit Panjang NPC,Harassment,168
+2019,Jurong Police Division - Choa Chu Kang NPC,Unlicensed Moneylending,25
+2019,Jurong Police Division - Choa Chu Kang NPC,Harassment,265
+2019,Jurong Police Division - Jurong West NPC,Unlicensed Moneylending,41
+2019,Jurong Police Division - Jurong West NPC,Harassment,205
+2019,Jurong Police Division - Nanyang NPC,Unlicensed Moneylending,73
+2019,Jurong Police Division - Nanyang NPC,Harassment,218
+2019,Jurong Police Division - Woodlands NPC,Unlicensed Moneylending,na
+2019,Jurong Police Division - Woodlands NPC,Harassment,na
+2019,Jurong Police Division - Woodlands East NPC,Unlicensed Moneylending,na
+2019,Jurong Police Division - Woodlands East NPC,Harassment,na
+2019,Jurong Police Division - Woodlands West NPC,Unlicensed Moneylending,na
+2019,Jurong Police Division - Woodlands West NPC,Harassment,na
+2019,Woodlands Police Division - Total,Unlicensed Moneylending,110
+2019,Woodlands Police Division - Total,Harassment,1096
+2019,Woodlands Police Division - Woodlands East NPC,Unlicensed Moneylending,14
+2019,Woodlands Police Division - Woodlands East NPC,Harassment,284
+2019,Woodlands Police Division - Woodlands West NPC,Unlicensed Moneylending,66
+2019,Woodlands Police Division - Woodlands West NPC,Harassment,187
+2019,Woodlands Police Division - Yishun North NPC,Unlicensed Moneylending,16
+2019,Woodlands Police Division - Yishun North NPC,Harassment,291
+2019,Woodlands Police Division - Yishun South NPC,Unlicensed Moneylending,6
+2019,Woodlands Police Division - Yishun South NPC,Harassment,142
+2019,Woodlands Police Division - Sembawang NPC,Unlicensed Moneylending,8
+2019,Woodlands Police Division - Sembawang NPC,Harassment,192

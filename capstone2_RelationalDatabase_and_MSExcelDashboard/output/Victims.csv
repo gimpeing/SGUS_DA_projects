@@ -1,0 +1,577 @@
+Year,Crime_code,Age_group,Gender,Total_count
+2011,15,     Above 21 Years Old * ,Male,10
+2011,15,     21 Years Old And Below * ,Male,0
+2011,15,     Youths (7 To 19 Years Old) ,Male,0
+2011,15,     Unknown Age ,Male,0
+2011,15,     Above 21 Years Old * ,Female,6
+2011,15,     21 Years Old And Below * ,Female,0
+2011,15,     Youths (7 To 19 Years Old) ,Female,0
+2011,15,     Unknown Age ,Female,0
+2011,16,     Above 21 Years Old * ,Male,0
+2011,16,     21 Years Old And Below * ,Male,0
+2011,16,     Youths (7 To 19 Years Old) ,Male,0
+2011,16,     Unknown Age ,Male,0
+2011,16,     Above 21 Years Old * ,Female,45
+2011,16,     21 Years Old And Below * ,Female,105
+2011,16,     Youths (7 To 19 Years Old) ,Female,96
+2011,16,     Unknown Age ,Female,0
+2011,8,     Above 21 Years Old * ,Male,12
+2011,8,     21 Years Old And Below * ,Male,70
+2011,8,     Youths (7 To 19 Years Old) ,Male,60
+2011,8,     Unknown Age ,Male,0
+2011,8,     Above 21 Years Old * ,Female,810
+2011,8,     21 Years Old And Below * ,Female,586
+2011,8,     Youths (7 To 19 Years Old) ,Female,474
+2011,8,     Unknown Age ,Female,4
+2011,7,     Above 21 Years Old * ,Male,235
+2011,7,     21 Years Old And Below * ,Male,80
+2011,7,     Youths (7 To 19 Years Old) ,Male,70
+2011,7,     Unknown Age ,Male,1
+2011,7,     Above 21 Years Old * ,Female,107
+2011,7,     21 Years Old And Below * ,Female,27
+2011,7,     Youths (7 To 19 Years Old) ,Female,18
+2011,7,     Unknown Age ,Female,0
+2011,10,     Above 21 Years Old * ,Male,49
+2011,10,     21 Years Old And Below * ,Male,22
+2011,10,     Youths (7 To 19 Years Old) ,Male,18
+2011,10,     Unknown Age ,Male,0
+2011,10,     Above 21 Years Old * ,Female,231
+2011,10,     21 Years Old And Below * ,Female,48
+2011,10,     Youths (7 To 19 Years Old) ,Female,32
+2011,10,     Unknown Age ,Female,0
+2011,17,     Above 21 Years Old * ,Male,125
+2011,17,     21 Years Old And Below * ,Male,114
+2011,17,     Youths (7 To 19 Years Old) ,Male,96
+2011,17,     Unknown Age ,Male,1
+2011,17,     Above 21 Years Old * ,Female,7
+2011,17,     21 Years Old And Below * ,Female,14
+2011,17,     Youths (7 To 19 Years Old) ,Female,12
+2011,17,     Unknown Age ,Female,0
+2011,14,     Above 21 Years Old * ,Male,301
+2011,14,     21 Years Old And Below * ,Male,65
+2011,14,     Youths (7 To 19 Years Old) ,Male,42
+2011,14,     Unknown Age ,Male,1
+2011,14,     Above 21 Years Old * ,Female,59
+2011,14,     21 Years Old And Below * ,Female,12
+2011,14,     Youths (7 To 19 Years Old) ,Female,8
+2011,14,     Unknown Age ,Female,0
+2011,18,     Above 21 Years Old * ,Male,1123
+2011,18,     21 Years Old And Below * ,Male,161
+2011,18,     Youths (7 To 19 Years Old) ,Male,104
+2011,18,     Unknown Age ,Male,0
+2011,18,     Above 21 Years Old * ,Female,847
+2011,18,     21 Years Old And Below * ,Female,135
+2011,18,     Youths (7 To 19 Years Old) ,Female,77
+2011,18,     Unknown Age ,Female,1
+2012,15,     Above 21 Years Old * ,Male,5
+2012,15,     21 Years Old And Below * ,Male,0
+2012,15,     Youths (7 To 19 Years Old) ,Male,0
+2012,15,     Unknown Age ,Male,0
+2012,15,     Above 21 Years Old * ,Female,6
+2012,15,     21 Years Old And Below * ,Female,0
+2012,15,     Youths (7 To 19 Years Old) ,Female,0
+2012,15,     Unknown Age ,Female,0
+2012,16,     Above 21 Years Old * ,Male,0
+2012,16,     21 Years Old And Below * ,Male,0
+2012,16,     Youths (7 To 19 Years Old) ,Male,0
+2012,16,     Unknown Age ,Male,0
+2012,16,     Above 21 Years Old * ,Female,41
+2012,16,     21 Years Old And Below * ,Female,97
+2012,16,     Youths (7 To 19 Years Old) ,Female,82
+2012,16,     Unknown Age ,Female,0
+2012,8,     Above 21 Years Old * ,Male,19
+2012,8,     21 Years Old And Below * ,Male,69
+2012,8,     Youths (7 To 19 Years Old) ,Male,62
+2012,8,     Unknown Age ,Male,1
+2012,8,     Above 21 Years Old * ,Female,828
+2012,8,     21 Years Old And Below * ,Female,585
+2012,8,     Youths (7 To 19 Years Old) ,Female,427
+2012,8,     Unknown Age ,Female,4
+2012,7,     Above 21 Years Old * ,Male,179
+2012,7,     21 Years Old And Below * ,Male,43
+2012,7,     Youths (7 To 19 Years Old) ,Male,28
+2012,7,     Unknown Age ,Male,0
+2012,7,     Above 21 Years Old * ,Female,86
+2012,7,     21 Years Old And Below * ,Female,25
+2012,7,     Youths (7 To 19 Years Old) ,Female,18
+2012,7,     Unknown Age ,Female,0
+2012,10,     Above 21 Years Old * ,Male,46
+2012,10,     21 Years Old And Below * ,Male,17
+2012,10,     Youths (7 To 19 Years Old) ,Male,14
+2012,10,     Unknown Age ,Male,0
+2012,10,     Above 21 Years Old * ,Female,190
+2012,10,     21 Years Old And Below * ,Female,37
+2012,10,     Youths (7 To 19 Years Old) ,Female,24
+2012,10,     Unknown Age ,Female,0
+2012,17,     Above 21 Years Old * ,Male,170
+2012,17,     21 Years Old And Below * ,Male,132
+2012,17,     Youths (7 To 19 Years Old) ,Male,102
+2012,17,     Unknown Age ,Male,2
+2012,17,     Above 21 Years Old * ,Female,8
+2012,17,     21 Years Old And Below * ,Female,9
+2012,17,     Youths (7 To 19 Years Old) ,Female,5
+2012,17,     Unknown Age ,Female,0
+2012,14,     Above 21 Years Old * ,Male,339
+2012,14,     21 Years Old And Below * ,Male,71
+2012,14,     Youths (7 To 19 Years Old) ,Male,53
+2012,14,     Unknown Age ,Male,4
+2012,14,     Above 21 Years Old * ,Female,62
+2012,14,     21 Years Old And Below * ,Female,11
+2012,14,     Youths (7 To 19 Years Old) ,Female,6
+2012,14,     Unknown Age ,Female,0
+2012,18,     Above 21 Years Old * ,Male,840
+2012,18,     21 Years Old And Below * ,Male,120
+2012,18,     Youths (7 To 19 Years Old) ,Male,74
+2012,18,     Unknown Age ,Male,0
+2012,18,     Above 21 Years Old * ,Female,680
+2012,18,     21 Years Old And Below * ,Female,176
+2012,18,     Youths (7 To 19 Years Old) ,Female,130
+2012,18,     Unknown Age ,Female,0
+2013,15,     Above 21 Years Old * ,Male,9
+2013,15,     21 Years Old And Below * ,Male,2
+2013,15,     Youths (7 To 19 Years Old) ,Male,1
+2013,15,     Unknown Age ,Male,0
+2013,15,     Above 21 Years Old * ,Female,5
+2013,15,     21 Years Old And Below * ,Female,1
+2013,15,     Youths (7 To 19 Years Old) ,Female,1
+2013,15,     Unknown Age ,Female,0
+2013,16,     Above 21 Years Old * ,Male,0
+2013,16,     21 Years Old And Below * ,Male,0
+2013,16,     Youths (7 To 19 Years Old) ,Male,0
+2013,16,     Unknown Age ,Male,0
+2013,16,     Above 21 Years Old * ,Female,40
+2013,16,     21 Years Old And Below * ,Female,83
+2013,16,     Youths (7 To 19 Years Old) ,Female,79
+2013,16,     Unknown Age ,Female,0
+2013,8,     Above 21 Years Old * ,Male,22
+2013,8,     21 Years Old And Below * ,Male,63
+2013,8,     Youths (7 To 19 Years Old) ,Male,56
+2013,8,     Unknown Age ,Male,1
+2013,8,     Above 21 Years Old * ,Female,767
+2013,8,     21 Years Old And Below * ,Female,579
+2013,8,     Youths (7 To 19 Years Old) ,Female,446
+2013,8,     Unknown Age ,Female,3
+2013,7,     Above 21 Years Old * ,Male,157
+2013,7,     21 Years Old And Below * ,Male,37
+2013,7,     Youths (7 To 19 Years Old) ,Male,27
+2013,7,     Unknown Age ,Male,1
+2013,7,     Above 21 Years Old * ,Female,67
+2013,7,     21 Years Old And Below * ,Female,13
+2013,7,     Youths (7 To 19 Years Old) ,Female,9
+2013,7,     Unknown Age ,Female,0
+2013,10,     Above 21 Years Old * ,Male,37
+2013,10,     21 Years Old And Below * ,Male,8
+2013,10,     Youths (7 To 19 Years Old) ,Male,7
+2013,10,     Unknown Age ,Male,0
+2013,10,     Above 21 Years Old * ,Female,162
+2013,10,     21 Years Old And Below * ,Female,30
+2013,10,     Youths (7 To 19 Years Old) ,Female,21
+2013,10,     Unknown Age ,Female,4
+2013,17,     Above 21 Years Old * ,Male,190
+2013,17,     21 Years Old And Below * ,Male,83
+2013,17,     Youths (7 To 19 Years Old) ,Male,56
+2013,17,     Unknown Age ,Male,1
+2013,17,     Above 21 Years Old * ,Female,11
+2013,17,     21 Years Old And Below * ,Female,10
+2013,17,     Youths (7 To 19 Years Old) ,Female,5
+2013,17,     Unknown Age ,Female,0
+2013,14,     Above 21 Years Old * ,Male,342
+2013,14,     21 Years Old And Below * ,Male,74
+2013,14,     Youths (7 To 19 Years Old) ,Male,51
+2013,14,     Unknown Age ,Male,2
+2013,14,     Above 21 Years Old * ,Female,80
+2013,14,     21 Years Old And Below * ,Female,13
+2013,14,     Youths (7 To 19 Years Old) ,Female,11
+2013,14,     Unknown Age ,Female,0
+2013,18,     Above 21 Years Old * ,Male,1147
+2013,18,     21 Years Old And Below * ,Male,180
+2013,18,     Youths (7 To 19 Years Old) ,Male,108
+2013,18,     Unknown Age ,Male,1
+2013,18,     Above 21 Years Old * ,Female,842
+2013,18,     21 Years Old And Below * ,Female,141
+2013,18,     Youths (7 To 19 Years Old) ,Female,80
+2013,18,     Unknown Age ,Female,1
+2014,15,     Above 21 Years Old * ,Male,5
+2014,15,     21 Years Old And Below * ,Male,2
+2014,15,     Youths (7 To 19 Years Old) ,Male,1
+2014,15,     Unknown Age ,Male,0
+2014,15,     Above 21 Years Old * ,Female,7
+2014,15,     21 Years Old And Below * ,Female,0
+2014,15,     Youths (7 To 19 Years Old) ,Female,0
+2014,15,     Unknown Age ,Female,0
+2014,16,     Above 21 Years Old * ,Male,0
+2014,16,     21 Years Old And Below * ,Male,0
+2014,16,     Youths (7 To 19 Years Old) ,Male,0
+2014,16,     Unknown Age ,Male,0
+2014,16,     Above 21 Years Old * ,Female,51
+2014,16,     21 Years Old And Below * ,Female,115
+2014,16,     Youths (7 To 19 Years Old) ,Female,104
+2014,16,     Unknown Age ,Female,0
+2014,8,     Above 21 Years Old * ,Male,18
+2014,8,     21 Years Old And Below * ,Male,67
+2014,8,     Youths (7 To 19 Years Old) ,Male,65
+2014,8,     Unknown Age ,Male,0
+2014,8,     Above 21 Years Old * ,Female,793
+2014,8,     21 Years Old And Below * ,Female,568
+2014,8,     Youths (7 To 19 Years Old) ,Female,439
+2014,8,     Unknown Age ,Female,4
+2014,7,     Above 21 Years Old * ,Male,155
+2014,7,     21 Years Old And Below * ,Male,38
+2014,7,     Youths (7 To 19 Years Old) ,Male,33
+2014,7,     Unknown Age ,Male,0
+2014,7,     Above 21 Years Old * ,Female,46
+2014,7,     21 Years Old And Below * ,Female,13
+2014,7,     Youths (7 To 19 Years Old) ,Female,9
+2014,7,     Unknown Age ,Female,1
+2014,10,     Above 21 Years Old * ,Male,36
+2014,10,     21 Years Old And Below * ,Male,3
+2014,10,     Youths (7 To 19 Years Old) ,Male,3
+2014,10,     Unknown Age ,Male,0
+2014,10,     Above 21 Years Old * ,Female,114
+2014,10,     21 Years Old And Below * ,Female,12
+2014,10,     Youths (7 To 19 Years Old) ,Female,9
+2014,10,     Unknown Age ,Female,0
+2014,17,     Above 21 Years Old * ,Male,163
+2014,17,     21 Years Old And Below * ,Male,73
+2014,17,     Youths (7 To 19 Years Old) ,Male,60
+2014,17,     Unknown Age ,Male,0
+2014,17,     Above 21 Years Old * ,Female,11
+2014,17,     21 Years Old And Below * ,Female,5
+2014,17,     Youths (7 To 19 Years Old) ,Female,2
+2014,17,     Unknown Age ,Female,0
+2014,14,     Above 21 Years Old * ,Male,358
+2014,14,     21 Years Old And Below * ,Male,66
+2014,14,     Youths (7 To 19 Years Old) ,Male,52
+2014,14,     Unknown Age ,Male,0
+2014,14,     Above 21 Years Old * ,Female,78
+2014,14,     21 Years Old And Below * ,Female,13
+2014,14,     Youths (7 To 19 Years Old) ,Female,9
+2014,14,     Unknown Age ,Female,0
+2014,18,     Above 21 Years Old * ,Male,1949
+2014,18,     21 Years Old And Below * ,Male,311
+2014,18,     Youths (7 To 19 Years Old) ,Male,188
+2014,18,     Unknown Age ,Male,1
+2014,18,     Above 21 Years Old * ,Female,1468
+2014,18,     21 Years Old And Below * ,Female,217
+2014,18,     Youths (7 To 19 Years Old) ,Female,120
+2014,18,     Unknown Age ,Female,1
+2015,15,     Above 21 Years Old * ,Male,10
+2015,15,     21 Years Old And Below * ,Male,1
+2015,15,     Youths (7 To 19 Years Old) ,Male,0
+2015,15,     Unknown Age ,Male,0
+2015,15,     Above 21 Years Old * ,Female,3
+2015,15,     21 Years Old And Below * ,Female,0
+2015,15,     Youths (7 To 19 Years Old) ,Female,0
+2015,15,     Unknown Age ,Female,0
+2015,16,     Above 21 Years Old * ,Male,0
+2015,16,     21 Years Old And Below * ,Male,0
+2015,16,     Youths (7 To 19 Years Old) ,Male,0
+2015,16,     Unknown Age ,Male,0
+2015,16,     Above 21 Years Old * ,Female,60
+2015,16,     21 Years Old And Below * ,Female,107
+2015,16,     Youths (7 To 19 Years Old) ,Female,93
+2015,16,     Unknown Age ,Female,0
+2015,8,     Above 21 Years Old * ,Male,31
+2015,8,     21 Years Old And Below * ,Male,59
+2015,8,     Youths (7 To 19 Years Old) ,Male,49
+2015,8,     Unknown Age ,Male,0
+2015,8,     Above 21 Years Old * ,Female,756
+2015,8,     21 Years Old And Below * ,Female,519
+2015,8,     Youths (7 To 19 Years Old) ,Female,416
+2015,8,     Unknown Age ,Female,4
+2015,7,     Above 21 Years Old * ,Male,88
+2015,7,     21 Years Old And Below * ,Male,8
+2015,7,     Youths (7 To 19 Years Old) ,Male,4
+2015,7,     Unknown Age ,Male,0
+2015,7,     Above 21 Years Old * ,Female,32
+2015,7,     21 Years Old And Below * ,Female,4
+2015,7,     Youths (7 To 19 Years Old) ,Female,3
+2015,7,     Unknown Age ,Female,0
+2015,10,     Above 21 Years Old * ,Male,9
+2015,10,     21 Years Old And Below * ,Male,3
+2015,10,     Youths (7 To 19 Years Old) ,Male,3
+2015,10,     Unknown Age ,Male,0
+2015,10,     Above 21 Years Old * ,Female,67
+2015,10,     21 Years Old And Below * ,Female,5
+2015,10,     Youths (7 To 19 Years Old) ,Female,5
+2015,10,     Unknown Age ,Female,0
+2015,17,     Above 21 Years Old * ,Male,108
+2015,17,     21 Years Old And Below * ,Male,57
+2015,17,     Youths (7 To 19 Years Old) ,Male,44
+2015,17,     Unknown Age ,Male,0
+2015,17,     Above 21 Years Old * ,Female,4
+2015,17,     21 Years Old And Below * ,Female,11
+2015,17,     Youths (7 To 19 Years Old) ,Female,6
+2015,17,     Unknown Age ,Female,0
+2015,14,     Above 21 Years Old * ,Male,353
+2015,14,     21 Years Old And Below * ,Male,56
+2015,14,     Youths (7 To 19 Years Old) ,Male,34
+2015,14,     Unknown Age ,Male,0
+2015,14,     Above 21 Years Old * ,Female,96
+2015,14,     21 Years Old And Below * ,Female,17
+2015,14,     Youths (7 To 19 Years Old) ,Female,12
+2015,14,     Unknown Age ,Female,0
+2015,18,     Above 21 Years Old * ,Male,3614
+2015,18,     21 Years Old And Below * ,Male,645
+2015,18,     Youths (7 To 19 Years Old) ,Male,360
+2015,18,     Unknown Age ,Male,0
+2015,18,     Above 21 Years Old * ,Female,2284
+2015,18,     21 Years Old And Below * ,Female,280
+2015,18,     Youths (7 To 19 Years Old) ,Female,159
+2015,18,     Unknown Age ,Female,0
+2016,15,     Above 21 Years Old * ,Male,10
+2016,15,     21 Years Old And Below * ,Male,1
+2016,15,     Youths (7 To 19 Years Old) ,Male,0
+2016,15,     Unknown Age ,Male,0
+2016,15,     Above 21 Years Old * ,Female,7
+2016,15,     21 Years Old And Below * ,Female,0
+2016,15,     Youths (7 To 19 Years Old) ,Female,0
+2016,15,     Unknown Age ,Female,0
+2016,16,     Above 21 Years Old * ,Male,0
+2016,16,     21 Years Old And Below * ,Male,0
+2016,16,     Youths (7 To 19 Years Old) ,Male,0
+2016,16,     Unknown Age ,Male,0
+2016,16,     Above 21 Years Old * ,Female,45
+2016,16,     21 Years Old And Below * ,Female,104
+2016,16,     Youths (7 To 19 Years Old) ,Female,95
+2016,16,     Unknown Age ,Female,0
+2016,8,     Above 21 Years Old * ,Male,38
+2016,8,     21 Years Old And Below * ,Male,59
+2016,8,     Youths (7 To 19 Years Old) ,Male,51
+2016,8,     Unknown Age ,Male,1
+2016,8,     Above 21 Years Old * ,Female,774
+2016,8,     21 Years Old And Below * ,Female,466
+2016,8,     Youths (7 To 19 Years Old) ,Female,349
+2016,8,     Unknown Age ,Female,9
+2016,7,     Above 21 Years Old * ,Male,50
+2016,7,     21 Years Old And Below * ,Male,10
+2016,7,     Youths (7 To 19 Years Old) ,Male,8
+2016,7,     Unknown Age ,Male,0
+2016,7,     Above 21 Years Old * ,Female,44
+2016,7,     21 Years Old And Below * ,Female,3
+2016,7,     Youths (7 To 19 Years Old) ,Female,0
+2016,7,     Unknown Age ,Female,1
+2016,10,     Above 21 Years Old * ,Male,12
+2016,10,     21 Years Old And Below * ,Male,4
+2016,10,     Youths (7 To 19 Years Old) ,Male,3
+2016,10,     Unknown Age ,Male,0
+2016,10,     Above 21 Years Old * ,Female,41
+2016,10,     21 Years Old And Below * ,Female,6
+2016,10,     Youths (7 To 19 Years Old) ,Female,4
+2016,10,     Unknown Age ,Female,0
+2016,17,     Above 21 Years Old * ,Male,118
+2016,17,     21 Years Old And Below * ,Male,61
+2016,17,     Youths (7 To 19 Years Old) ,Male,48
+2016,17,     Unknown Age ,Male,0
+2016,17,     Above 21 Years Old * ,Female,4
+2016,17,     21 Years Old And Below * ,Female,11
+2016,17,     Youths (7 To 19 Years Old) ,Female,11
+2016,17,     Unknown Age ,Female,0
+2016,14,     Above 21 Years Old * ,Male,343
+2016,14,     21 Years Old And Below * ,Male,71
+2016,14,     Youths (7 To 19 Years Old) ,Male,43
+2016,14,     Unknown Age ,Male,0
+2016,14,     Above 21 Years Old * ,Female,105
+2016,14,     21 Years Old And Below * ,Female,12
+2016,14,     Youths (7 To 19 Years Old) ,Female,9
+2016,14,     Unknown Age ,Female,0
+2016,18,     Above 21 Years Old * ,Male,3171
+2016,18,     21 Years Old And Below * ,Male,549
+2016,18,     Youths (7 To 19 Years Old) ,Male,303
+2016,18,     Unknown Age ,Male,0
+2016,18,     Above 21 Years Old * ,Female,2577
+2016,18,     21 Years Old And Below * ,Female,343
+2016,18,     Youths (7 To 19 Years Old) ,Female,208
+2016,18,     Unknown Age ,Female,1
+2017,15,     Above 21 Years Old * ,Male,6
+2017,15,     21 Years Old And Below * ,Male,0
+2017,15,     Youths (7 To 19 Years Old) ,Male,0
+2017,15,     Unknown Age ,Male,0
+2017,15,     Above 21 Years Old * ,Female,4
+2017,15,     21 Years Old And Below * ,Female,1
+2017,15,     Youths (7 To 19 Years Old) ,Female,0
+2017,15,     Unknown Age ,Female,0
+2017,16,     Above 21 Years Old * ,Male,0
+2017,16,     21 Years Old And Below * ,Male,0
+2017,16,     Youths (7 To 19 Years Old) ,Male,0
+2017,16,     Unknown Age ,Male,0
+2017,16,     Above 21 Years Old * ,Female,73
+2017,16,     21 Years Old And Below * ,Female,116
+2017,16,     Youths (7 To 19 Years Old) ,Female,97
+2017,16,     Unknown Age ,Female,0
+2017,8,     Above 21 Years Old * ,Male,26
+2017,8,     21 Years Old And Below * ,Male,90
+2017,8,     Youths (7 To 19 Years Old) ,Male,79
+2017,8,     Unknown Age ,Male,0
+2017,8,     Above 21 Years Old * ,Female,932
+2017,8,     21 Years Old And Below * ,Female,618
+2017,8,     Youths (7 To 19 Years Old) ,Female,475
+2017,8,     Unknown Age ,Female,6
+2017,7,     Above 21 Years Old * ,Male,58
+2017,7,     21 Years Old And Below * ,Male,4
+2017,7,     Youths (7 To 19 Years Old) ,Male,2
+2017,7,     Unknown Age ,Male,0
+2017,7,     Above 21 Years Old * ,Female,18
+2017,7,     21 Years Old And Below * ,Female,1
+2017,7,     Youths (7 To 19 Years Old) ,Female,0
+2017,7,     Unknown Age ,Female,0
+2017,10,     Above 21 Years Old * ,Male,13
+2017,10,     21 Years Old And Below * ,Male,3
+2017,10,     Youths (7 To 19 Years Old) ,Male,3
+2017,10,     Unknown Age ,Male,0
+2017,10,     Above 21 Years Old * ,Female,29
+2017,10,     21 Years Old And Below * ,Female,6
+2017,10,     Youths (7 To 19 Years Old) ,Female,5
+2017,10,     Unknown Age ,Female,0
+2017,17,     Above 21 Years Old * ,Male,95
+2017,17,     21 Years Old And Below * ,Male,47
+2017,17,     Youths (7 To 19 Years Old) ,Male,35
+2017,17,     Unknown Age ,Male,0
+2017,17,     Above 21 Years Old * ,Female,7
+2017,17,     21 Years Old And Below * ,Female,7
+2017,17,     Youths (7 To 19 Years Old) ,Female,4
+2017,17,     Unknown Age ,Female,0
+2017,14,     Above 21 Years Old * ,Male,311
+2017,14,     21 Years Old And Below * ,Male,47
+2017,14,     Youths (7 To 19 Years Old) ,Male,33
+2017,14,     Unknown Age ,Male,0
+2017,14,     Above 21 Years Old * ,Female,80
+2017,14,     21 Years Old And Below * ,Female,18
+2017,14,     Youths (7 To 19 Years Old) ,Female,13
+2017,14,     Unknown Age ,Female,0
+2017,18,     Above 21 Years Old * ,Male,3028
+2017,18,     21 Years Old And Below * ,Male,491
+2017,18,     Youths (7 To 19 Years Old) ,Male,284
+2017,18,     Unknown Age ,Male,0
+2017,18,     Above 21 Years Old * ,Female,2895
+2017,18,     21 Years Old And Below * ,Female,304
+2017,18,     Youths (7 To 19 Years Old) ,Female,174
+2017,18,     Unknown Age ,Female,0
+2018,15,     Above 21 Years Old * ,Male,2
+2018,15,     21 Years Old And Below * ,Male,0
+2018,15,     Youths (7 To 19 Years Old) ,Male,0
+2018,15,     Unknown Age ,Male,0
+2018,15,     Above 21 Years Old * ,Female,5
+2018,15,     21 Years Old And Below * ,Female,2
+2018,15,     Youths (7 To 19 Years Old) ,Female,0
+2018,15,     Unknown Age ,Female,0
+2018,16,     Above 21 Years Old * ,Male,0
+2018,16,     21 Years Old And Below * ,Male,0
+2018,16,     Youths (7 To 19 Years Old) ,Male,0
+2018,16,     Unknown Age ,Male,0
+2018,16,     Above 21 Years Old * ,Female,85
+2018,16,     21 Years Old And Below * ,Female,129
+2018,16,     Youths (7 To 19 Years Old) ,Female,114
+2018,16,     Unknown Age ,Female,1
+2018,8,     Above 21 Years Old * ,Male,54
+2018,8,     21 Years Old And Below * ,Male,71
+2018,8,     Youths (7 To 19 Years Old) ,Male,51
+2018,8,     Unknown Age ,Male,0
+2018,8,     Above 21 Years Old * ,Female,1037
+2018,8,     21 Years Old And Below * ,Female,692
+2018,8,     Youths (7 To 19 Years Old) ,Female,533
+2018,8,     Unknown Age ,Female,4
+2018,7,     Above 21 Years Old * ,Male,45
+2018,7,     21 Years Old And Below * ,Male,8
+2018,7,     Youths (7 To 19 Years Old) ,Male,5
+2018,7,     Unknown Age ,Male,0
+2018,7,     Above 21 Years Old * ,Female,25
+2018,7,     21 Years Old And Below * ,Female,3
+2018,7,     Youths (7 To 19 Years Old) ,Female,0
+2018,7,     Unknown Age ,Female,0
+2018,10,     Above 21 Years Old * ,Male,15
+2018,10,     21 Years Old And Below * ,Male,1
+2018,10,     Youths (7 To 19 Years Old) ,Male,1
+2018,10,     Unknown Age ,Male,0
+2018,10,     Above 21 Years Old * ,Female,30
+2018,10,     21 Years Old And Below * ,Female,4
+2018,10,     Youths (7 To 19 Years Old) ,Female,3
+2018,10,     Unknown Age ,Female,0
+2018,17,     Above 21 Years Old * ,Male,93
+2018,17,     21 Years Old And Below * ,Male,50
+2018,17,     Youths (7 To 19 Years Old) ,Male,44
+2018,17,     Unknown Age ,Male,0
+2018,17,     Above 21 Years Old * ,Female,12
+2018,17,     21 Years Old And Below * ,Female,6
+2018,17,     Youths (7 To 19 Years Old) ,Female,5
+2018,17,     Unknown Age ,Female,0
+2018,14,     Above 21 Years Old * ,Male,302
+2018,14,     21 Years Old And Below * ,Male,39
+2018,14,     Youths (7 To 19 Years Old) ,Male,28
+2018,14,     Unknown Age ,Male,0
+2018,14,     Above 21 Years Old * ,Female,96
+2018,14,     21 Years Old And Below * ,Female,15
+2018,14,     Youths (7 To 19 Years Old) ,Female,14
+2018,14,     Unknown Age ,Female,0
+2018,18,     Above 21 Years Old * ,Male,3574
+2018,18,     21 Years Old And Below * ,Male,603
+2018,18,     Youths (7 To 19 Years Old) ,Male,349
+2018,18,     Unknown Age ,Male,2
+2018,18,     Above 21 Years Old * ,Female,2963
+2018,18,     21 Years Old And Below * ,Female,365
+2018,18,     Youths (7 To 19 Years Old) ,Female,211
+2018,18,     Unknown Age ,Female,0
+2019,15,     Above 21 Years Old * ,Male,5
+2019,15,     21 Years Old And Below * ,Male,0
+2019,15,     Youths (7 To 19 Years Old) ,Male,0
+2019,15,     Unknown Age ,Male,0
+2019,15,     Above 21 Years Old * ,Female,4
+2019,15,     21 Years Old And Below * ,Female,3
+2019,15,     Youths (7 To 19 Years Old) ,Female,0
+2019,15,     Unknown Age ,Female,0
+2019,16,     Above 21 Years Old * ,Male,0
+2019,16,     21 Years Old And Below * ,Male,0
+2019,16,     Youths (7 To 19 Years Old) ,Male,0
+2019,16,     Unknown Age ,Male,0
+2019,16,     Above 21 Years Old * ,Female,107
+2019,16,     21 Years Old And Below * ,Female,181
+2019,16,     Youths (7 To 19 Years Old) ,Female,158
+2019,16,     Unknown Age ,Female,0
+2019,8,     Above 21 Years Old * ,Male,57
+2019,8,     21 Years Old And Below * ,Male,112
+2019,8,     Youths (7 To 19 Years Old) ,Male,95
+2019,8,     Unknown Age ,Male,0
+2019,8,     Above 21 Years Old * ,Female,960
+2019,8,     21 Years Old And Below * ,Female,603
+2019,8,     Youths (7 To 19 Years Old) ,Female,452
+2019,8,     Unknown Age ,Female,3
+2019,7,     Above 21 Years Old * ,Male,33
+2019,7,     21 Years Old And Below * ,Male,13
+2019,7,     Youths (7 To 19 Years Old) ,Male,9
+2019,7,     Unknown Age ,Male,0
+2019,7,     Above 21 Years Old * ,Female,14
+2019,7,     21 Years Old And Below * ,Female,4
+2019,7,     Youths (7 To 19 Years Old) ,Female,3
+2019,7,     Unknown Age ,Female,0
+2019,10,     Above 21 Years Old * ,Male,14
+2019,10,     21 Years Old And Below * ,Male,0
+2019,10,     Youths (7 To 19 Years Old) ,Male,0
+2019,10,     Unknown Age ,Male,0
+2019,10,     Above 21 Years Old * ,Female,22
+2019,10,     21 Years Old And Below * ,Female,1
+2019,10,     Youths (7 To 19 Years Old) ,Female,1
+2019,10,     Unknown Age ,Female,0
+2019,17,     Above 21 Years Old * ,Male,76
+2019,17,     21 Years Old And Below * ,Male,54
+2019,17,     Youths (7 To 19 Years Old) ,Male,40
+2019,17,     Unknown Age ,Male,0
+2019,17,     Above 21 Years Old * ,Female,2
+2019,17,     21 Years Old And Below * ,Female,5
+2019,17,     Youths (7 To 19 Years Old) ,Female,5
+2019,17,     Unknown Age ,Female,0
+2019,14,     Above 21 Years Old * ,Male,327
+2019,14,     21 Years Old And Below * ,Male,50
+2019,14,     Youths (7 To 19 Years Old) ,Male,32
+2019,14,     Unknown Age ,Male,1
+2019,14,     Above 21 Years Old * ,Female,62
+2019,14,     21 Years Old And Below * ,Female,12
+2019,14,     Youths (7 To 19 Years Old) ,Female,10
+2019,14,     Unknown Age ,Female,0
+2019,18,     Above 21 Years Old * ,Male,5499
+2019,18,     21 Years Old And Below * ,Male,878
+2019,18,     Youths (7 To 19 Years Old) ,Male,500
+2019,18,     Unknown Age ,Male,2
+2019,18,     Above 21 Years Old * ,Female,3990
+2019,18,     21 Years Old And Below * ,Female,508
+2019,18,     Youths (7 To 19 Years Old) ,Female,311
+2019,18,     Unknown Age ,Female,4

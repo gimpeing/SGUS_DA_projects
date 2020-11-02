@@ -1,0 +1,541 @@
+Year,Crime_code,Age_group,Gender,Total_count
+2011,15,Above 21 Years Old,Male,17
+2011,15,21 Years Old And Below,Male,11
+2011,15,Youths (7 To 19 Years Old),Male,8
+2011,15,Above 21 Years Old,Female,1
+2011,15,21 Years Old And Below,Female,1
+2011,15,Youths (7 To 19 Years Old),Female,1
+2011,16,Above 21 Years Old,Male,30
+2011,16,21 Years Old And Below,Male,14
+2011,16,Youths (7 To 19 Years Old),Male,13
+2011,16,Above 21 Years Old,Female,0
+2011,16,21 Years Old And Below,Female,0
+2011,16,Youths (7 To 19 Years Old),Female,0
+2011,8,Above 21 Years Old,Male,681
+2011,8,21 Years Old And Below,Male,115
+2011,8,Youths (7 To 19 Years Old),Male,79
+2011,8,Above 21 Years Old,Female,4
+2011,8,21 Years Old And Below,Female,3
+2011,8,Youths (7 To 19 Years Old),Female,2
+2011,7,Above 21 Years Old,Male,167
+2011,7,21 Years Old And Below,Male,116
+2011,7,Youths (7 To 19 Years Old),Male,102
+2011,7,Above 21 Years Old,Female,10
+2011,7,21 Years Old And Below,Female,11
+2011,7,Youths (7 To 19 Years Old),Female,11
+2011,11,Above 21 Years Old,Male,161
+2011,11,21 Years Old And Below,Male,90
+2011,11,Youths (7 To 19 Years Old),Male,82
+2011,11,Above 21 Years Old,Female,12
+2011,11,21 Years Old And Below,Female,9
+2011,11,Youths (7 To 19 Years Old),Female,9
+2011,9,Above 21 Years Old,Male,55
+2011,9,21 Years Old And Below,Male,128
+2011,9,Youths (7 To 19 Years Old),Male,106
+2011,9,Above 21 Years Old,Female,1
+2011,9,21 Years Old And Below,Female,12
+2011,9,Youths (7 To 19 Years Old),Female,10
+2011,10,Above 21 Years Old,Male,44
+2011,10,21 Years Old And Below,Male,42
+2011,10,Youths (7 To 19 Years Old),Male,36
+2011,10,Above 21 Years Old,Female,3
+2011,10,21 Years Old And Below,Female,0
+2011,10,Youths (7 To 19 Years Old),Female,0
+2011,17,Above 21 Years Old,Male,234
+2011,17,21 Years Old And Below,Male,397
+2011,17,Youths (7 To 19 Years Old),Male,336
+2011,17,Above 21 Years Old,Female,6
+2011,17,21 Years Old And Below,Female,65
+2011,17,Youths (7 To 19 Years Old),Female,62
+2011,14,Above 21 Years Old,Male,209
+2011,14,21 Years Old And Below,Male,51
+2011,14,Youths (7 To 19 Years Old),Male,36
+2011,14,Above 21 Years Old,Female,31
+2011,14,21 Years Old And Below,Female,11
+2011,14,Youths (7 To 19 Years Old),Female,7
+2011,18,Above 21 Years Old,Male,1003
+2011,18,21 Years Old And Below,Male,168
+2011,18,Youths (7 To 19 Years Old),Male,110
+2011,18,Above 21 Years Old,Female,373
+2011,18,21 Years Old And Below,Female,103
+2011,18,Youths (7 To 19 Years Old),Female,63
+2012,15,Above 21 Years Old,Male,15
+2012,15,21 Years Old And Below,Male,1
+2012,15,Youths (7 To 19 Years Old),Male,0
+2012,15,Above 21 Years Old,Female,0
+2012,15,21 Years Old And Below,Female,0
+2012,15,Youths (7 To 19 Years Old),Female,0
+2012,16,Above 21 Years Old,Male,42
+2012,16,21 Years Old And Below,Male,37
+2012,16,Youths (7 To 19 Years Old),Male,33
+2012,16,Above 21 Years Old,Female,0
+2012,16,21 Years Old And Below,Female,0
+2012,16,Youths (7 To 19 Years Old),Female,0
+2012,8,Above 21 Years Old,Male,702
+2012,8,21 Years Old And Below,Male,108
+2012,8,Youths (7 To 19 Years Old),Male,65
+2012,8,Above 21 Years Old,Female,3
+2012,8,21 Years Old And Below,Female,3
+2012,8,Youths (7 To 19 Years Old),Female,3
+2012,7,Above 21 Years Old,Male,142
+2012,7,21 Years Old And Below,Male,115
+2012,7,Youths (7 To 19 Years Old),Male,98
+2012,7,Above 21 Years Old,Female,9
+2012,7,21 Years Old And Below,Female,10
+2012,7,Youths (7 To 19 Years Old),Female,8
+2012,11,Above 21 Years Old,Male,140
+2012,11,21 Years Old And Below,Male,78
+2012,11,Youths (7 To 19 Years Old),Male,61
+2012,11,Above 21 Years Old,Female,9
+2012,11,21 Years Old And Below,Female,10
+2012,11,Youths (7 To 19 Years Old),Female,9
+2012,9,Above 21 Years Old,Male,59
+2012,9,21 Years Old And Below,Male,74
+2012,9,Youths (7 To 19 Years Old),Male,62
+2012,9,Above 21 Years Old,Female,3
+2012,9,21 Years Old And Below,Female,4
+2012,9,Youths (7 To 19 Years Old),Female,3
+2012,10,Above 21 Years Old,Male,54
+2012,10,21 Years Old And Below,Male,24
+2012,10,Youths (7 To 19 Years Old),Male,14
+2012,10,Above 21 Years Old,Female,3
+2012,10,21 Years Old And Below,Female,1
+2012,10,Youths (7 To 19 Years Old),Female,1
+2012,17,Above 21 Years Old,Male,277
+2012,17,21 Years Old And Below,Male,277
+2012,17,Youths (7 To 19 Years Old),Male,223
+2012,17,Above 21 Years Old,Female,21
+2012,17,21 Years Old And Below,Female,19
+2012,17,Youths (7 To 19 Years Old),Female,16
+2012,14,Above 21 Years Old,Male,275
+2012,14,21 Years Old And Below,Male,50
+2012,14,Youths (7 To 19 Years Old),Male,36
+2012,14,Above 21 Years Old,Female,35
+2012,14,21 Years Old And Below,Female,4
+2012,14,Youths (7 To 19 Years Old),Female,2
+2012,18,Above 21 Years Old,Male,1016
+2012,18,21 Years Old And Below,Male,135
+2012,18,Youths (7 To 19 Years Old),Male,90
+2012,18,Above 21 Years Old,Female,360
+2012,18,21 Years Old And Below,Female,92
+2012,18,Youths (7 To 19 Years Old),Female,53
+2013,15,Above 21 Years Old,Male,23
+2013,15,21 Years Old And Below,Male,2
+2013,15,Youths (7 To 19 Years Old),Male,1
+2013,15,Above 21 Years Old,Female,4
+2013,15,21 Years Old And Below,Female,0
+2013,15,Youths (7 To 19 Years Old),Female,0
+2013,16,Above 21 Years Old,Male,43
+2013,16,21 Years Old And Below,Male,32
+2013,16,Youths (7 To 19 Years Old),Male,27
+2013,16,Above 21 Years Old,Female,0
+2013,16,21 Years Old And Below,Female,0
+2013,16,Youths (7 To 19 Years Old),Female,0
+2013,8,Above 21 Years Old,Male,663
+2013,8,21 Years Old And Below,Male,115
+2013,8,Youths (7 To 19 Years Old),Male,77
+2013,8,Above 21 Years Old,Female,0
+2013,8,21 Years Old And Below,Female,3
+2013,8,Youths (7 To 19 Years Old),Female,3
+2013,7,Above 21 Years Old,Male,146
+2013,7,21 Years Old And Below,Male,91
+2013,7,Youths (7 To 19 Years Old),Male,73
+2013,7,Above 21 Years Old,Female,7
+2013,7,21 Years Old And Below,Female,3
+2013,7,Youths (7 To 19 Years Old),Female,2
+2013,11,Above 21 Years Old,Male,144
+2013,11,21 Years Old And Below,Male,85
+2013,11,Youths (7 To 19 Years Old),Male,75
+2013,11,Above 21 Years Old,Female,8
+2013,11,21 Years Old And Below,Female,8
+2013,11,Youths (7 To 19 Years Old),Female,6
+2013,9,Above 21 Years Old,Male,41
+2013,9,21 Years Old And Below,Male,62
+2013,9,Youths (7 To 19 Years Old),Male,54
+2013,9,Above 21 Years Old,Female,0
+2013,9,21 Years Old And Below,Female,4
+2013,9,Youths (7 To 19 Years Old),Female,3
+2013,10,Above 21 Years Old,Male,52
+2013,10,21 Years Old And Below,Male,29
+2013,10,Youths (7 To 19 Years Old),Male,27
+2013,10,Above 21 Years Old,Female,1
+2013,10,21 Years Old And Below,Female,3
+2013,10,Youths (7 To 19 Years Old),Female,3
+2013,17,Above 21 Years Old,Male,295
+2013,17,21 Years Old And Below,Male,312
+2013,17,Youths (7 To 19 Years Old),Male,250
+2013,17,Above 21 Years Old,Female,5
+2013,17,21 Years Old And Below,Female,37
+2013,17,Youths (7 To 19 Years Old),Female,33
+2013,14,Above 21 Years Old,Male,316
+2013,14,21 Years Old And Below,Male,54
+2013,14,Youths (7 To 19 Years Old),Male,30
+2013,14,Above 21 Years Old,Female,34
+2013,14,21 Years Old And Below,Female,2
+2013,14,Youths (7 To 19 Years Old),Female,2
+2013,18,Above 21 Years Old,Male,993
+2013,18,21 Years Old And Below,Male,120
+2013,18,Youths (7 To 19 Years Old),Male,85
+2013,18,Above 21 Years Old,Female,366
+2013,18,21 Years Old And Below,Female,77
+2013,18,Youths (7 To 19 Years Old),Female,49
+2014,15,Above 21 Years Old,Male,18
+2014,15,21 Years Old And Below,Male,1
+2014,15,Youths (7 To 19 Years Old),Male,0
+2014,15,Above 21 Years Old,Female,5
+2014,15,21 Years Old And Below,Female,0
+2014,15,Youths (7 To 19 Years Old),Female,0
+2014,16,Above 21 Years Old,Male,59
+2014,16,21 Years Old And Below,Male,45
+2014,16,Youths (7 To 19 Years Old),Male,32
+2014,16,Above 21 Years Old,Female,0
+2014,16,21 Years Old And Below,Female,0
+2014,16,Youths (7 To 19 Years Old),Female,0
+2014,8,Above 21 Years Old,Male,699
+2014,8,21 Years Old And Below,Male,138
+2014,8,Youths (7 To 19 Years Old),Male,106
+2014,8,Above 21 Years Old,Female,5
+2014,8,21 Years Old And Below,Female,1
+2014,8,Youths (7 To 19 Years Old),Female,1
+2014,7,Above 21 Years Old,Male,127
+2014,7,21 Years Old And Below,Male,74
+2014,7,Youths (7 To 19 Years Old),Male,60
+2014,7,Above 21 Years Old,Female,5
+2014,7,21 Years Old And Below,Female,4
+2014,7,Youths (7 To 19 Years Old),Female,2
+2014,11,Above 21 Years Old,Male,117
+2014,11,21 Years Old And Below,Male,55
+2014,11,Youths (7 To 19 Years Old),Male,46
+2014,11,Above 21 Years Old,Female,5
+2014,11,21 Years Old And Below,Female,5
+2014,11,Youths (7 To 19 Years Old),Female,4
+2014,9,Above 21 Years Old,Male,48
+2014,9,21 Years Old And Below,Male,66
+2014,9,Youths (7 To 19 Years Old),Male,53
+2014,9,Above 21 Years Old,Female,5
+2014,9,21 Years Old And Below,Female,2
+2014,9,Youths (7 To 19 Years Old),Female,2
+2014,10,Above 21 Years Old,Male,38
+2014,10,21 Years Old And Below,Male,26
+2014,10,Youths (7 To 19 Years Old),Male,21
+2014,10,Above 21 Years Old,Female,1
+2014,10,21 Years Old And Below,Female,3
+2014,10,Youths (7 To 19 Years Old),Female,3
+2014,17,Above 21 Years Old,Male,308
+2014,17,21 Years Old And Below,Male,337
+2014,17,Youths (7 To 19 Years Old),Male,286
+2014,17,Above 21 Years Old,Female,13
+2014,17,21 Years Old And Below,Female,39
+2014,17,Youths (7 To 19 Years Old),Female,36
+2014,14,Above 21 Years Old,Male,390
+2014,14,21 Years Old And Below,Male,56
+2014,14,Youths (7 To 19 Years Old),Male,34
+2014,14,Above 21 Years Old,Female,32
+2014,14,21 Years Old And Below,Female,1
+2014,14,Youths (7 To 19 Years Old),Female,1
+2014,18,Above 21 Years Old,Male,1099
+2014,18,21 Years Old And Below,Male,122
+2014,18,Youths (7 To 19 Years Old),Male,81
+2014,18,Above 21 Years Old,Female,394
+2014,18,21 Years Old And Below,Female,86
+2014,18,Youths (7 To 19 Years Old),Female,47
+2015,15,Above 21 Years Old,Male,12
+2015,15,21 Years Old And Below,Male,2
+2015,15,Youths (7 To 19 Years Old),Male,0
+2015,15,Above 21 Years Old,Female,4
+2015,15,21 Years Old And Below,Female,0
+2015,15,Youths (7 To 19 Years Old),Female,0
+2015,16,Above 21 Years Old,Male,47
+2015,16,21 Years Old And Below,Male,28
+2015,16,Youths (7 To 19 Years Old),Male,23
+2015,16,Above 21 Years Old,Female,0
+2015,16,21 Years Old And Below,Female,0
+2015,16,Youths (7 To 19 Years Old),Female,0
+2015,8,Above 21 Years Old,Male,722
+2015,8,21 Years Old And Below,Male,134
+2015,8,Youths (7 To 19 Years Old),Male,114
+2015,8,Above 21 Years Old,Female,5
+2015,8,21 Years Old And Below,Female,0
+2015,8,Youths (7 To 19 Years Old),Female,0
+2015,7,Above 21 Years Old,Male,84
+2015,7,21 Years Old And Below,Male,33
+2015,7,Youths (7 To 19 Years Old),Male,24
+2015,7,Above 21 Years Old,Female,4
+2015,7,21 Years Old And Below,Female,5
+2015,7,Youths (7 To 19 Years Old),Female,4
+2015,11,Above 21 Years Old,Male,110
+2015,11,21 Years Old And Below,Male,78
+2015,11,Youths (7 To 19 Years Old),Male,63
+2015,11,Above 21 Years Old,Female,3
+2015,11,21 Years Old And Below,Female,3
+2015,11,Youths (7 To 19 Years Old),Female,3
+2015,9,Above 21 Years Old,Male,59
+2015,9,21 Years Old And Below,Male,74
+2015,9,Youths (7 To 19 Years Old),Male,53
+2015,9,Above 21 Years Old,Female,5
+2015,9,21 Years Old And Below,Female,3
+2015,9,Youths (7 To 19 Years Old),Female,0
+2015,10,Above 21 Years Old,Male,29
+2015,10,21 Years Old And Below,Male,10
+2015,10,Youths (7 To 19 Years Old),Male,8
+2015,10,Above 21 Years Old,Female,1
+2015,10,21 Years Old And Below,Female,1
+2015,10,Youths (7 To 19 Years Old),Female,0
+2015,17,Above 21 Years Old,Male,303
+2015,17,21 Years Old And Below,Male,189
+2015,17,Youths (7 To 19 Years Old),Male,144
+2015,17,Above 21 Years Old,Female,7
+2015,17,21 Years Old And Below,Female,31
+2015,17,Youths (7 To 19 Years Old),Female,28
+2015,14,Above 21 Years Old,Male,363
+2015,14,21 Years Old And Below,Male,50
+2015,14,Youths (7 To 19 Years Old),Male,31
+2015,14,Above 21 Years Old,Female,43
+2015,14,21 Years Old And Below,Female,4
+2015,14,Youths (7 To 19 Years Old),Female,4
+2015,18,Above 21 Years Old,Male,1263
+2015,18,21 Years Old And Below,Male,167
+2015,18,Youths (7 To 19 Years Old),Male,101
+2015,18,Above 21 Years Old,Female,539
+2015,18,21 Years Old And Below,Female,101
+2015,18,Youths (7 To 19 Years Old),Female,65
+2016,15,Above 21 Years Old,Male,36
+2016,15,21 Years Old And Below,Male,1
+2016,15,Youths (7 To 19 Years Old),Male,0
+2016,15,Above 21 Years Old,Female,5
+2016,15,21 Years Old And Below,Female,1
+2016,15,Youths (7 To 19 Years Old),Female,0
+2016,16,Above 21 Years Old,Male,47
+2016,16,21 Years Old And Below,Male,44
+2016,16,Youths (7 To 19 Years Old),Male,39
+2016,16,Above 21 Years Old,Female,0
+2016,16,21 Years Old And Below,Female,0
+2016,16,Youths (7 To 19 Years Old),Female,0
+2016,8,Above 21 Years Old,Male,776
+2016,8,21 Years Old And Below,Male,88
+2016,8,Youths (7 To 19 Years Old),Male,69
+2016,8,Above 21 Years Old,Female,7
+2016,8,21 Years Old And Below,Female,1
+2016,8,Youths (7 To 19 Years Old),Female,1
+2016,7,Above 21 Years Old,Male,81
+2016,7,21 Years Old And Below,Male,23
+2016,7,Youths (7 To 19 Years Old),Male,15
+2016,7,Above 21 Years Old,Female,4
+2016,7,21 Years Old And Below,Female,0
+2016,7,Youths (7 To 19 Years Old),Female,0
+2016,11,Above 21 Years Old,Male,100
+2016,11,21 Years Old And Below,Male,59
+2016,11,Youths (7 To 19 Years Old),Male,57
+2016,11,Above 21 Years Old,Female,3
+2016,11,21 Years Old And Below,Female,4
+2016,11,Youths (7 To 19 Years Old),Female,2
+2016,9,Above 21 Years Old,Male,48
+2016,9,21 Years Old And Below,Male,34
+2016,9,Youths (7 To 19 Years Old),Male,24
+2016,9,Above 21 Years Old,Female,2
+2016,9,21 Years Old And Below,Female,1
+2016,9,Youths (7 To 19 Years Old),Female,1
+2016,10,Above 21 Years Old,Male,29
+2016,10,21 Years Old And Below,Male,9
+2016,10,Youths (7 To 19 Years Old),Male,5
+2016,10,Above 21 Years Old,Female,0
+2016,10,21 Years Old And Below,Female,0
+2016,10,Youths (7 To 19 Years Old),Female,0
+2016,17,Above 21 Years Old,Male,290
+2016,17,21 Years Old And Below,Male,198
+2016,17,Youths (7 To 19 Years Old),Male,160
+2016,17,Above 21 Years Old,Female,7
+2016,17,21 Years Old And Below,Female,47
+2016,17,Youths (7 To 19 Years Old),Female,42
+2016,14,Above 21 Years Old,Male,345
+2016,14,21 Years Old And Below,Male,78
+2016,14,Youths (7 To 19 Years Old),Male,52
+2016,14,Above 21 Years Old,Female,48
+2016,14,21 Years Old And Below,Female,9
+2016,14,Youths (7 To 19 Years Old),Female,6
+2016,18,Above 21 Years Old,Male,1237
+2016,18,21 Years Old And Below,Male,162
+2016,18,Youths (7 To 19 Years Old),Male,91
+2016,18,Above 21 Years Old,Female,549
+2016,18,21 Years Old And Below,Female,95
+2016,18,Youths (7 To 19 Years Old),Female,52
+2017,15,Above 21 Years Old,Male,11
+2017,15,21 Years Old And Below,Male,2
+2017,15,Youths (7 To 19 Years Old),Male,1
+2017,15,Above 21 Years Old,Female,1
+2017,15,21 Years Old And Below,Female,0
+2017,15,Youths (7 To 19 Years Old),Female,0
+2017,16,Above 21 Years Old,Male,64
+2017,16,21 Years Old And Below,Male,24
+2017,16,Youths (7 To 19 Years Old),Male,20
+2017,16,Above 21 Years Old,Female,0
+2017,16,21 Years Old And Below,Female,0
+2017,16,Youths (7 To 19 Years Old),Female,0
+2017,8,Above 21 Years Old,Male,863
+2017,8,21 Years Old And Below,Male,101
+2017,8,Youths (7 To 19 Years Old),Male,74
+2017,8,Above 21 Years Old,Female,9
+2017,8,21 Years Old And Below,Female,2
+2017,8,Youths (7 To 19 Years Old),Female,2
+2017,7,Above 21 Years Old,Male,64
+2017,7,21 Years Old And Below,Male,22
+2017,7,Youths (7 To 19 Years Old),Male,18
+2017,7,Above 21 Years Old,Female,5
+2017,7,21 Years Old And Below,Female,2
+2017,7,Youths (7 To 19 Years Old),Female,2
+2017,11,Above 21 Years Old,Male,88
+2017,11,21 Years Old And Below,Male,55
+2017,11,Youths (7 To 19 Years Old),Male,48
+2017,11,Above 21 Years Old,Female,7
+2017,11,21 Years Old And Below,Female,7
+2017,11,Youths (7 To 19 Years Old),Female,7
+2017,9,Above 21 Years Old,Male,52
+2017,9,21 Years Old And Below,Male,50
+2017,9,Youths (7 To 19 Years Old),Male,42
+2017,9,Above 21 Years Old,Female,2
+2017,9,21 Years Old And Below,Female,5
+2017,9,Youths (7 To 19 Years Old),Female,4
+2017,10,Above 21 Years Old,Male,32
+2017,10,21 Years Old And Below,Male,9
+2017,10,Youths (7 To 19 Years Old),Male,6
+2017,10,Above 21 Years Old,Female,2
+2017,10,21 Years Old And Below,Female,3
+2017,10,Youths (7 To 19 Years Old),Female,3
+2017,17,Above 21 Years Old,Male,245
+2017,17,21 Years Old And Below,Male,172
+2017,17,Youths (7 To 19 Years Old),Male,142
+2017,17,Above 21 Years Old,Female,10
+2017,17,21 Years Old And Below,Female,12
+2017,17,Youths (7 To 19 Years Old),Female,10
+2017,14,Above 21 Years Old,Male,302
+2017,14,21 Years Old And Below,Male,42
+2017,14,Youths (7 To 19 Years Old),Male,24
+2017,14,Above 21 Years Old,Female,41
+2017,14,21 Years Old And Below,Female,9
+2017,14,Youths (7 To 19 Years Old),Female,3
+2017,18,Above 21 Years Old,Male,1444
+2017,18,21 Years Old And Below,Male,228
+2017,18,Youths (7 To 19 Years Old),Male,146
+2017,18,Above 21 Years Old,Female,605
+2017,18,21 Years Old And Below,Female,123
+2017,18,Youths (7 To 19 Years Old),Female,87
+2018,15,Above 21 Years Old,Male,7
+2018,15,21 Years Old And Below,Male,0
+2018,15,Youths (7 To 19 Years Old),Male,0
+2018,15,Above 21 Years Old,Female,1
+2018,15,21 Years Old And Below,Female,1
+2018,15,Youths (7 To 19 Years Old),Female,0
+2018,16,Above 21 Years Old,Male,116
+2018,16,21 Years Old And Below,Male,56
+2018,16,Youths (7 To 19 Years Old),Male,48
+2018,16,Above 21 Years Old,Female,0
+2018,16,21 Years Old And Below,Female,0
+2018,16,Youths (7 To 19 Years Old),Female,0
+2018,8,Above 21 Years Old,Male,969
+2018,8,21 Years Old And Below,Male,143
+2018,8,Youths (7 To 19 Years Old),Male,102
+2018,8,Above 21 Years Old,Female,9
+2018,8,21 Years Old And Below,Female,1
+2018,8,Youths (7 To 19 Years Old),Female,1
+2018,7,Above 21 Years Old,Male,73
+2018,7,21 Years Old And Below,Male,21
+2018,7,Youths (7 To 19 Years Old),Male,17
+2018,7,Above 21 Years Old,Female,4
+2018,7,21 Years Old And Below,Female,1
+2018,7,Youths (7 To 19 Years Old),Female,0
+2018,11,Above 21 Years Old,Male,86
+2018,11,21 Years Old And Below,Male,75
+2018,11,Youths (7 To 19 Years Old),Male,67
+2018,11,Above 21 Years Old,Female,10
+2018,11,21 Years Old And Below,Female,5
+2018,11,Youths (7 To 19 Years Old),Female,5
+2018,9,Above 21 Years Old,Male,34
+2018,9,21 Years Old And Below,Male,36
+2018,9,Youths (7 To 19 Years Old),Male,33
+2018,9,Above 21 Years Old,Female,1
+2018,9,21 Years Old And Below,Female,2
+2018,9,Youths (7 To 19 Years Old),Female,2
+2018,10,Above 21 Years Old,Male,23
+2018,10,21 Years Old And Below,Male,9
+2018,10,Youths (7 To 19 Years Old),Male,7
+2018,10,Above 21 Years Old,Female,2
+2018,10,21 Years Old And Below,Female,1
+2018,10,Youths (7 To 19 Years Old),Female,1
+2018,17,Above 21 Years Old,Male,177
+2018,17,21 Years Old And Below,Male,184
+2018,17,Youths (7 To 19 Years Old),Male,137
+2018,17,Above 21 Years Old,Female,5
+2018,17,21 Years Old And Below,Female,15
+2018,17,Youths (7 To 19 Years Old),Female,14
+2018,14,Above 21 Years Old,Male,310
+2018,14,21 Years Old And Below,Male,46
+2018,14,Youths (7 To 19 Years Old),Male,25
+2018,14,Above 21 Years Old,Female,42
+2018,14,21 Years Old And Below,Female,13
+2018,14,Youths (7 To 19 Years Old),Female,9
+2018,18,Above 21 Years Old,Male,1628
+2018,18,21 Years Old And Below,Male,237
+2018,18,Youths (7 To 19 Years Old),Male,153
+2018,18,Above 21 Years Old,Female,768
+2018,18,21 Years Old And Below,Female,114
+2018,18,Youths (7 To 19 Years Old),Female,81
+2019,15,Above 21 Years Old,Male,21
+2019,15,21 Years Old And Below,Male,0
+2019,15,Youths (7 To 19 Years Old),Male,0
+2019,15,Above 21 Years Old,Female,6
+2019,15,21 Years Old And Below,Female,1
+2019,15,Youths (7 To 19 Years Old),Female,1
+2019,16,Above 21 Years Old,Male,113
+2019,16,21 Years Old And Below,Male,58
+2019,16,Youths (7 To 19 Years Old),Male,43
+2019,16,Above 21 Years Old,Female,0
+2019,16,21 Years Old And Below,Female,0
+2019,16,Youths (7 To 19 Years Old),Female,0
+2019,8,Above 21 Years Old,Male,967
+2019,8,21 Years Old And Below,Male,99
+2019,8,Youths (7 To 19 Years Old),Male,77
+2019,8,Above 21 Years Old,Female,10
+2019,8,21 Years Old And Below,Female,1
+2019,8,Youths (7 To 19 Years Old),Female,1
+2019,7,Above 21 Years Old,Male,77
+2019,7,21 Years Old And Below,Male,23
+2019,7,Youths (7 To 19 Years Old),Male,17
+2019,7,Above 21 Years Old,Female,5
+2019,7,21 Years Old And Below,Female,0
+2019,7,Youths (7 To 19 Years Old),Female,0
+2019,11,Above 21 Years Old,Male,108
+2019,11,21 Years Old And Below,Male,25
+2019,11,Youths (7 To 19 Years Old),Male,22
+2019,11,Above 21 Years Old,Female,6
+2019,11,21 Years Old And Below,Female,5
+2019,11,Youths (7 To 19 Years Old),Female,5
+2019,9,Above 21 Years Old,Male,40
+2019,9,21 Years Old And Below,Male,21
+2019,9,Youths (7 To 19 Years Old),Male,19
+2019,9,Above 21 Years Old,Female,2
+2019,9,21 Years Old And Below,Female,1
+2019,9,Youths (7 To 19 Years Old),Female,1
+2019,10,Above 21 Years Old,Male,27
+2019,10,21 Years Old And Below,Male,2
+2019,10,Youths (7 To 19 Years Old),Male,0
+2019,10,Above 21 Years Old,Female,1
+2019,10,21 Years Old And Below,Female,0
+2019,10,Youths (7 To 19 Years Old),Female,0
+2019,17,Above 21 Years Old,Male,195
+2019,17,21 Years Old And Below,Male,183
+2019,17,Youths (7 To 19 Years Old),Male,138
+2019,17,Above 21 Years Old,Female,0
+2019,17,21 Years Old And Below,Female,17
+2019,17,Youths (7 To 19 Years Old),Female,15
+2019,14,Above 21 Years Old,Male,343
+2019,14,21 Years Old And Below,Male,48
+2019,14,Youths (7 To 19 Years Old),Male,26
+2019,14,Above 21 Years Old,Female,42
+2019,14,21 Years Old And Below,Female,10
+2019,14,Youths (7 To 19 Years Old),Female,10
+2019,18,Above 21 Years Old,Male,1615
+2019,18,21 Years Old And Below,Male,214
+2019,18,Youths (7 To 19 Years Old),Male,141
+2019,18,Above 21 Years Old,Female,668
+2019,18,21 Years Old And Below,Female,118
+2019,18,Youths (7 To 19 Years Old),Female,71
